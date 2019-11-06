@@ -1,0 +1,43 @@
+/*json 中也让写一下注释吧!!!*/
+{
+    "env": {
+        "browser": true,
+        "commonjs": true,
+        "es6": true
+    },
+    "extends": "eslint:recommended",
+    "parserOptions": {
+        "ecmaVersion": 2015,
+        "sourceType": "module"
+    },
+    "rules": {
+        "linebreak-style": [
+            "error",
+            "unix"
+        ],
+
+        //允许使用console
+        "no-console":0,
+
+        //单个文件不能超过500行
+        "max-lines": [1, 500],
+
+        //强制在代码块中使用一致的大括号风格
+        "brace-style": 2,
+
+        //禁止在不需要分行的时候使用了分行
+        "no-unexpected-multiline": 2,
+
+        //不要把空格和tab混用
+        "no-mixed-spaces-and-tabs": 2,
+
+        //函数参数禁止重名
+        "no-dupe-args": 2,
+
+        //class中的成员禁止重名
+        "no-dupe-class-members": 2,
+
+        //在对象字面量中，禁止使用重复的key
+        "no-dupe-keys": 2
+    }
+}

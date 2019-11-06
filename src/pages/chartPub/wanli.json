@@ -1,0 +1,4828 @@
+{
+	"state": "ok",
+	"message": "",
+	"special": "",
+	"vipMessage": "",
+	"isLogin": 0,
+	"data": {
+		"nodes": [{
+			"id": "905002835",
+			"labels": ["Company"],
+			"properties": {
+				"logo": "https://img.tianyancha.com/logo/lll/b7e7ea8b8649adbaa0c1c49d534c1817.png@!t07",
+				"aias": "万里运输",
+				"name": "河南万里运输集团有限公司许昌修理厂",
+				"ntype": "f"
+			}
+		}, {
+			"id": "2192913037",
+			"labels": ["Human"],
+			"properties": {
+				"name": "赵方",
+				"ntype": "s"
+			}
+		}, {
+			"id": "1472461612",
+			"labels": ["Company"],
+			"properties": {
+				"logo": "https://img.tianyancha.com/logo/lll/4e5b5538db88fad060cf60d985023a30.png@!t07",
+				"aias": "富全汽车",
+				"name": "河南富全汽车运输有限公司",
+				"ntype": "f"
+			}
+		}, {
+			"id": "424703129",
+			"labels": ["Company"],
+			"properties": {
+				"logo": "https://img.tianyancha.com/logo/lll/c79bee2d5258e896d69d0dd059f7c66b.png@!t07",
+				"aias": "万里运输",
+				"name": "河南万里运输集团商水利诚城乡客运有限公司",
+				"ntype": "f"
+			}
+		}, {
+			"id": "2202564191",
+			"labels": ["Human"],
+			"properties": {
+				"name": "邓小军",
+				"ntype": "s"
+			}
+		}, {
+			"id": "905003480",
+			"labels": ["Company"],
+			"properties": {
+				"logo": "https://img.tianyancha.com/logo/lll/f19fe1855d9886af1601c790b0b2b0a6.png@!t07",
+				"aias": "万里运输",
+				"name": "河南万里运输集团有限公司周口分公司西华客运站",
+				"ntype": "f"
+			}
+		}, {
+			"id": "1981567036",
+			"labels": ["Human"],
+			"properties": {
+				"name": "李国栋",
+				"ntype": "s"
+			}
+		}, {
+			"id": "2454867594",
+			"labels": ["Company"],
+			"properties": {
+				"logo": "https://img.tianyancha.com/logo/lll/e5ccf126805a40bd95dee17416a71040.png@!t07",
+				"aias": "万里运输",
+				"name": "河南万里运输集团有限公司信阳汽车销售分公司",
+				"ntype": "f"
+			}
+		}, {
+			"id": "2007298304",
+			"labels": ["Human"],
+			"properties": {
+				"name": "林军辉",
+				"ntype": "s"
+			}
+		}, {
+			"id": "2065474443",
+			"labels": ["Human"],
+			"properties": {
+				"name": "王伟",
+				"ntype": "s"
+			}
+		}, {
+			"id": "906143849",
+			"labels": ["Company"],
+			"properties": {
+				"logo": "https://img.tianyancha.com/logo/lll/e31c77bfe7dbed2ffb1fd284db57027c.png@!t07",
+				"aias": "万里运输",
+				"name": "河南万里运输集团有限公司漯河汽车销售分公司",
+				"ntype": "f"
+			}
+		}, {
+			"id": "3112832262",
+			"labels": ["Company"],
+			"properties": {
+				"logo": "https://img.tianyancha.com/logo/lll/799e899eb254b19c7358d51ead166ec1.png@!t07",
+				"aias": "膳礼德",
+				"name": "郑州膳礼德餐饮服务有限公司",
+				"ntype": "f"
+			}
+		}, {
+			"id": "905004396",
+			"labels": ["Company"],
+			"properties": {
+				"logo": "https://img.tianyancha.com/logo/lll/839c9d671465e2cf834250951423ed3d.png@!t07",
+				"aias": "万里运输",
+				"name": "河南万里运输集团有限公司驻马店万达分公司",
+				"ntype": "f"
+			}
+		}, {
+			"id": "727069913",
+			"labels": ["Company"],
+			"properties": {
+				"logo": "https://img.tianyancha.com/logo/lll/b14f50143d1776f44d49707d610cf835.png@!t07",
+				"aias": "万畅物流",
+				"name": "河南万畅物流有限公司",
+				"ntype": "f"
+			}
+		}, {
+			"id": "2125972548",
+			"labels": ["Human"],
+			"properties": {
+				"name": "胡彦国",
+				"ntype": "s"
+			}
+		}, {
+			"id": "794123340",
+			"labels": ["Company"],
+			"properties": {
+				"logo": "https://img.tianyancha.com/logo/lll/6c65e62218526cfbd4c0bb8229f864fd.png@!t07",
+				"aias": "万里运输",
+				"name": "河南万里运输集团有限公司西华分公司",
+				"ntype": "f"
+			}
+		}, {
+			"id": "2943378765",
+			"labels": ["Company"],
+			"properties": {
+				"logo": "https://img.tianyancha.com/logo/lll/da4c5a588a7e7b6b1b302ff680d5a491.png@!t07",
+				"aias": "万里运输",
+				"name": "河南万里运输集团有限公司卫辉分公司",
+				"ntype": "f"
+			}
+		}, {
+			"id": "2339249350",
+			"labels": ["Company"],
+			"properties": {
+				"logo": "https://img.tianyancha.com/logo/lll/7492aa8e93507ed4a0663948aabbafa8.png@!t07",
+				"aias": "万里集团",
+				"name": "河南万里集团鄢陵交通运输有限公司",
+				"ntype": "f"
+			}
+		}, {
+			"id": "2452787996",
+			"labels": ["Company"],
+			"properties": {
+				"logo": "https://img.tianyancha.com/logo/lll/26b7106a5995cbd981bc050380c9c344.png@!t07",
+				"aias": "万里运输",
+				"name": "河南万里运输集团有限公司郑州物流第十三分公司",
+				"ntype": "f"
+			}
+		}, {
+			"id": "2964786607",
+			"labels": ["Company"],
+			"properties": {
+				"logo": "https://img.tianyancha.com/logo/lll/0a45dfeb005179a2640d2a19a4c7ac05.png@!t07",
+				"aias": "万里运输",
+				"name": "河南万里运输集团有限公司郑州第五分公司",
+				"ntype": "f"
+			}
+		}, {
+			"id": "577066416",
+			"labels": ["Company"],
+			"properties": {
+				"logo": "https://img.tianyancha.com/logo/lll/159adc9dbbf9911c9d873155a85e1493.png@!t07",
+				"aias": "多惠达",
+				"name": "郑州多惠达科技有限公司周口分公司",
+				"ntype": "f"
+			}
+		}, {
+			"id": "2350592767",
+			"labels": ["Company"],
+			"properties": {
+				"logo": "https://img.tianyancha.com/logo/lll/395bbdc2f777988b7def1eab46d713b1.png@!t07",
+				"aias": "万畅汽车",
+				"name": "河南万畅汽车销售服务有限公司",
+				"ntype": "f"
+			}
+		}, {
+			"id": "2286447163",
+			"labels": ["Human"],
+			"properties": {
+				"name": "高瑞华",
+				"ntype": "s"
+			}
+		}, {
+			"id": "2414489362",
+			"labels": ["Company"],
+			"properties": {
+				"logo": "https://img.tianyancha.com/logo/lll/b931f2c4a48b2a788a04781b95177221.png@!t07",
+				"aias": "万众汽车",
+				"name": "河南万众汽车销售服务有限公司商丘分公司",
+				"ntype": "f"
+			}
+		}, {
+			"id": "2376415842",
+			"labels": ["Company"],
+			"properties": {
+				"logo": "https://img.tianyancha.com/logo/lll/51f0a66d1c714f36c1696990aa943332.png@!t07",
+				"aias": "万里运输",
+				"name": "河南万里运输集团有限公司孟州物流分公司",
+				"ntype": "f"
+			}
+		}, {
+			"id": "2453196217",
+			"labels": ["Company"],
+			"properties": {
+				"logo": "https://img.tianyancha.com/logo/lll/3c5daae8fc354af6c4db4cac6d059d83.png@!t07",
+				"aias": "运输公司",
+				"name": "郑州市上街区运输公司装卸队",
+				"ntype": "f"
+			}
+		}, {
+			"id": "2451882957",
+			"labels": ["Company"],
+			"properties": {
+				"logo": "https://img.tianyancha.com/logo/lll/e284c1adcfc4178e9de7f00b93d8f0df.png@!t07",
+				"aias": "万里运输",
+				"name": "河南万里运输集团有限公司平顶山汽车销售分公司",
+				"ntype": "f"
+			}
+		}, {
+			"id": "2031552028",
+			"labels": ["Human"],
+			"properties": {
+				"name": "殷国平",
+				"ntype": "s"
+			}
+		}, {
+			"id": "2315978847",
+			"labels": ["Company"],
+			"properties": {
+				"logo": "https://img.tianyancha.com/logo/lll/4c6ace70c55d02c5c6121908e047f2da.png@!t07",
+				"aias": "昆仑万里",
+				"name": "河南昆仑万里能源服务有限公司",
+				"ntype": "f"
+			}
+		}, {
+			"id": "2995691518",
+			"labels": ["Company"],
+			"properties": {
+				"logo": "https://img.tianyancha.com/logo/lll/f75b87bc5dcba7468ee9f9760856e950.png@!t07",
+				"aias": "万里运输",
+				"name": "河南万里运输集团有限公司武陟县分公司",
+				"ntype": "f"
+			}
+		}, {
+			"id": "2452515374",
+			"labels": ["Company"],
+			"properties": {
+				"logo": "https://img.tianyancha.com/logo/lll/ed0297d99ac206c702f8c957f4736d59.png@!t07",
+				"aias": "万里运输",
+				"name": "河南万里运输集团有限公司鹤壁危险货物运输分公司",
+				"ntype": "f"
+			}
+		}, {
+			"id": "1820127805",
+			"labels": ["Human"],
+			"properties": {
+				"name": "包国俊",
+				"ntype": "s"
+			}
+		}, {
+			"id": "2310777879",
+			"labels": ["Company"],
+			"properties": {
+				"logo": "https://img.tianyancha.com/logo/lll/222a7682eb46dafb000f9ab881e15d23.png@!t07",
+				"aias": "瀚淼商贸",
+				"name": "开封市瀚淼商贸有限公司",
+				"ntype": "f"
+			}
+		}, {
+			"id": "1853411726",
+			"labels": ["Human"],
+			"properties": {
+				"name": "周大兵",
+				"ntype": "s"
+			}
+		}, {
+			"id": "2414563008",
+			"labels": ["Company"],
+			"properties": {
+				"logo": "https://img.tianyancha.com/logo/lll/bdf4a5bf68b4d3fbe00961914e921796.png@!t07",
+				"aias": "万众汽车",
+				"name": "河南万众汽车销售服务有限公司漯河分公司",
+				"ntype": "f"
+			}
+		}, {
+			"id": "1144183053",
+			"labels": ["Company"],
+			"properties": {
+				"logo": "https://img.tianyancha.com/logo/lll/f599e6fd55738064196c0d9949883dbe.png@!t07",
+				"aias": "万顺置业",
+				"name": "太康县万顺置业有限公司",
+				"ntype": "f"
+			}
+		}, {
+			"id": "2376415881",
+			"labels": ["Company"],
+			"properties": {
+				"logo": "https://img.tianyancha.com/logo/lll/f859090c3b810e6f60753222f89b429f.png@!t07",
+				"aias": "万里运输",
+				"name": "河南万里运输集团有限公司上蔡物流分公司",
+				"ntype": "f"
+			}
+		}, {
+			"id": "2451888957",
+			"labels": ["Company"],
+			"properties": {
+				"logo": "https://img.tianyancha.com/logo/lll/7a8657160611eaf46c9f5eb6829bdf64.png@!t07",
+				"aias": "万里运输",
+				"name": "河南万里运输集团有限公司郑州物流第五分公司",
+				"ntype": "f"
+			}
+		}, {
+			"id": "80198250",
+			"labels": ["Company"],
+			"properties": {
+				"logo": "https://img.tianyancha.com/logo/lll/c2a867bc91d55151516573b0178d5abf.png@!t07",
+				"aias": "万里运输",
+				"name": "许昌万里运输集团股份有限公司",
+				"ntype": "f"
+			}
+		}, {
+			"id": "2135310459",
+			"labels": ["Human"],
+			"properties": {
+				"name": "苏春红",
+				"ntype": "s"
+			}
+		}, {
+			"id": "2318003750",
+			"labels": ["Company"],
+			"properties": {
+				"logo": "https://img.tianyancha.com/logo/lll/c69f041147ada40a2896226b8c56b1bb.png@!t07",
+				"aias": "万里运输",
+				"name": "河南万里运输集团有限公司南阳万丰汽车贸易分公司",
+				"ntype": "f"
+			}
+		}, {
+			"id": "1824348590",
+			"labels": ["Human"],
+			"properties": {
+				"name": "卜合营",
+				"ntype": "s"
+			}
+		}, {
+			"id": "2200129381",
+			"labels": ["Human"],
+			"properties": {
+				"name": "连新合",
+				"ntype": "s"
+			}
+		}, {
+			"id": "2451940645",
+			"labels": ["Company"],
+			"properties": {
+				"logo": "https://img.tianyancha.com/logo/lll/52736329f6fa205e6a5a57b88e7ace79.png@!t07",
+				"aias": "万里运输",
+				"name": "河南万里运输集团有限公司郑州物流第九分公司",
+				"ntype": "f"
+			}
+		}, {
+			"id": "904996499",
+			"labels": ["Company"],
+			"properties": {
+				"logo": "https://img.tianyancha.com/logo/lll/1e14ac59bd857bc71e8ba1f81e46e4db.png@!t07",
+				"aias": "长运",
+				"name": "商丘长运分公司",
+				"ntype": "f"
+			}
+		}, {
+			"id": "904996420",
+			"labels": ["Company"],
+			"properties": {
+				"logo": "https://img.tianyancha.com/logo/lll/352e53277e84750fce9e4ac2013ba9a1.png@!t07",
+				"aias": "万丰",
+				"name": "南阳万丰汽车贸易公分司",
+				"ntype": "f"
+			}
+		}, {
+			"id": "2453702241",
+			"labels": ["Company"],
+			"properties": {
+				"logo": "https://img.tianyancha.com/logo/lll/ee27a5912881ae407141ce4dc87a3dbf.png@!t07",
+				"aias": "万里运输",
+				"name": "河南万里运输集团有限公司西华公司",
+				"ntype": "f"
+			}
+		}, {
+			"id": "904996571",
+			"labels": ["Company"],
+			"properties": {
+				"logo": "https://img.tianyancha.com/logo/lll/3530f2e4123c4759e9befc9a86437060.png@!t07",
+				"aias": "公司",
+				"name": "太康公司",
+				"ntype": "f"
+			}
+		}, {
+			"id": "904996545",
+			"labels": ["Company"],
+			"properties": {
+				"logo": "https://img.tianyancha.com/logo/lll/708cf9d82f13108b111bdb0d263aa8ad.png@!t07",
+				"name": "上蔡分公司",
+				"ntype": "f"
+			}
+		}, {
+			"id": "638721835",
+			"labels": ["Company"],
+			"properties": {
+				"logo": "https://img.tianyancha.com/logo/lll/03d8cc1922f6349aaf10977e8eefa537.png@!t07",
+				"aias": "华懿实业",
+				"name": "周口华懿实业有限公司",
+				"ntype": "f"
+			}
+		}, {
+			"id": "904996651",
+			"labels": ["Company"],
+			"properties": {
+				"logo": "https://img.tianyancha.com/logo/lll/e0ed57657456653367bd019f6b6c5a00.png@!t07",
+				"aias": "万里运输",
+				"name": "河南万里运输集团有限公司漯河分公司",
+				"ntype": "f"
+			}
+		}, {
+			"id": "904996752",
+			"labels": ["Company"],
+			"properties": {
+				"logo": "https://img.tianyancha.com/logo/lll/3a2f247b6d55fa7005289ff9505532f4.png@!t07",
+				"aias": "第三",
+				"name": "郑州第三分公司",
+				"ntype": "f"
+			}
+		}, {
+			"id": "2452789459",
+			"labels": ["Company"],
+			"properties": {
+				"logo": "https://img.tianyancha.com/logo/lll/2da1a1b6a21e4663a5f6493867e3c76a.png@!t07",
+				"aias": "万里运输",
+				"name": "河南万里运输集团有限公司郑州物流第十一分公司",
+				"ntype": "f"
+			}
+		}, {
+			"id": "904996695",
+			"labels": ["Company"],
+			"properties": {
+				"logo": "https://img.tianyancha.com/logo/lll/2de963bfdf5e03023e984e293b15a3c9.png@!t07",
+				"aias": "万里运输",
+				"name": "河南万里运输集团有限公司桐柏分公司",
+				"ntype": "f"
+			}
+		}, {
+			"id": "904995898",
+			"labels": ["Company"],
+			"properties": {
+				"logo": "https://img.tianyancha.com/logo/lll/f231b566ea3ebd8b5d70e396888f0d8f.png@!t07",
+				"aias": "汽车销售",
+				"name": "平顶山汽车销售分公司",
+				"ntype": "f"
+			}
+		}, {
+			"id": "2345057924",
+			"labels": ["Company"],
+			"properties": {
+				"logo": "https://img.tianyancha.com/logo/lll/9e0035665ff503580db25af25f56c8b4.png@!t07",
+				"aias": "万里运输",
+				"name": "河南万里运输集团有限公司（4100001005634）",
+				"ntype": "f"
+			}
+		}, {
+			"id": "904995891",
+			"labels": ["Company"],
+			"properties": {
+				"logo": "https://img.tianyancha.com/logo/lll/1dea65c98ad86535fb641c24da3691cd.png@!t07",
+				"aias": "三分公司",
+				"name": "西安三分公司",
+				"ntype": "f"
+			}
+		}, {
+			"id": "1785351295",
+			"labels": ["Human"],
+			"properties": {
+				"name": "余春建",
+				"ntype": "s"
+			}
+		}, {
+			"id": "2376418874",
+			"labels": ["Company"],
+			"properties": {
+				"logo": "https://img.tianyancha.com/logo/lll/8c29e1a92e3206aedac4898cf0ff1e46.png@!t07",
+				"aias": "万里运输",
+				"name": "河南万里运输集团有限公司南阳汽车销售分公司",
+				"ntype": "f"
+			}
+		}, {
+			"id": "904996039",
+			"labels": ["Company"],
+			"properties": {
+				"logo": "https://img.tianyancha.com/logo/lll/d66291a5b0a0e68c105a4beb9ff61f70.png@!t07",
+				"aias": "万里运输",
+				"name": "河南万里运输集团有限公司通许第二分公司",
+				"ntype": "f"
+			}
+		}, {
+			"id": "1812158328",
+			"labels": ["Human"],
+			"properties": {
+				"name": "刘新民",
+				"ntype": "s"
+			}
+		}, {
+			"id": "904995959",
+			"labels": ["Company"],
+			"properties": {
+				"logo": "https://img.tianyancha.com/logo/lll/3e09e77fe34648f3c27524eaca7e8a3e.png@!t07",
+				"aias": "汽车销售",
+				"name": "信阳汽车销售分公司",
+				"ntype": "f"
+			}
+		}, {
+			"id": "904996181",
+			"labels": ["Company"],
+			"properties": {
+				"logo": "https://img.tianyancha.com/logo/lll/562f34706c02891010f1ea899fb60c49.png@!t07",
+				"aias": "万里运输",
+				"name": "河南万里运输集团有限公司兰考分公司",
+				"ntype": "f"
+			}
+		}, {
+			"id": "904996083",
+			"labels": ["Company"],
+			"properties": {
+				"logo": "https://img.tianyancha.com/logo/lll/70c342fe4d52d1957d8c3496a1afb192.png@!t07",
+				"aias": "万里运输",
+				"name": "河南万里运输集团有限公司尉氏分公司",
+				"ntype": "f"
+			}
+		}, {
+			"id": "904996338",
+			"labels": ["Company"],
+			"properties": {
+				"logo": "https://img.tianyancha.com/logo/lll/35a56976e4d8a3cafdb4a113d2811e1a.png@!t07",
+				"aias": "汽车销售",
+				"name": "漯河汽车销售分公司",
+				"ntype": "f"
+			}
+		}, {
+			"id": "904996267",
+			"labels": ["Company"],
+			"properties": {
+				"logo": "https://img.tianyancha.com/logo/lll/3ae98d2b86cd38882740ce9ac1166db3.png@!t07",
+				"aias": "万里运输",
+				"name": "河南万里运输集团有限公司西平分公司",
+				"ntype": "f"
+			}
+		}, {
+			"id": "904997135",
+			"labels": ["Company"],
+			"properties": {
+				"logo": "https://img.tianyancha.com/logo/lll/291bc325cb653e5ae23f7fe744011e25.png@!t07",
+				"aias": "万里运输",
+				"name": "河南万里运输集团有限公司上街分公司",
+				"ntype": "f"
+			}
+		}, {
+			"id": "2319467090",
+			"labels": ["Company"],
+			"properties": {
+				"logo": "https://img.tianyancha.com/logo/lll/d1b7132c8f92a78dd7cc5b37a49fdf14.png@!t07",
+				"aias": "交通运输",
+				"name": "开封交通运输（集团）有限公司",
+				"ntype": "f"
+			}
+		}, {
+			"id": "904997128",
+			"labels": ["Company"],
+			"properties": {
+				"logo": "https://img.tianyancha.com/logo/lll/8c36fe5da7cf656150a11533505d080b.png@!t07",
+				"aias": "万里运输",
+				"name": "河南万里运输集团有限公司许昌分公司",
+				"ntype": "f"
+			}
+		}, {
+			"id": "2231817975",
+			"labels": ["Human"],
+			"properties": {
+				"name": "金联军",
+				"ntype": "s"
+			}
+		}, {
+			"id": "904997277",
+			"labels": ["Company"],
+			"properties": {
+				"logo": "https://img.tianyancha.com/logo/lll/5dd51d58de35a55a12e572db9a3c7772.png@!t07",
+				"aias": "万里运输",
+				"name": "河南万里运输集团有限公司周口物流分公司",
+				"ntype": "f"
+			}
+		}, {
+			"id": "2982966349",
+			"labels": ["Company"],
+			"properties": {
+				"logo": "https://img.tianyancha.com/logo/lll/2d84d824e9a2d2efa07d3b3196f9d128.png@!t07",
+				"aias": "万里运输",
+				"name": "河南万里运输集团有限公司新县分公司",
+				"ntype": "f"
+			}
+		}, {
+			"id": "904997234",
+			"labels": ["Company"],
+			"properties": {
+				"logo": "https://img.tianyancha.com/logo/lll/d0ec26d0886a6a0ad1ebc8099d42276e.png@!t07",
+				"aias": "万里运输",
+				"name": "河南万里运输集团有限公司危险品运输分公司",
+				"ntype": "f"
+			}
+		}, {
+			"id": "2346310786",
+			"labels": ["Company"],
+			"properties": {
+				"logo": "https://img.tianyancha.com/logo/lll/3ea24d60b25661b26b9ef68b02743e25.png@!t07",
+				"aias": "万里运输",
+				"name": "河南万里运输集团有限公司南阳物流分公司",
+				"ntype": "f"
+			}
+		}, {
+			"id": "904997385",
+			"labels": ["Company"],
+			"properties": {
+				"logo": "https://img.tianyancha.com/logo/lll/8791209c4728b64c914cdb3fb18a11d5.png@!t07",
+				"aias": "万里运输",
+				"name": "河南万里运输集团有限公司焦作物流分公司",
+				"ntype": "f"
+			}
+		}, {
+			"id": "904997320",
+			"labels": ["Company"],
+			"properties": {
+				"logo": "https://img.tianyancha.com/logo/lll/32ec6ed564c91c68ac2d01a85a15bd36.png@!t07",
+				"aias": "万里运输",
+				"name": "河南万里运输集团有限公司漯河物流分公司",
+				"ntype": "f"
+			}
+		}, {
+			"id": "904997457",
+			"labels": ["Company"],
+			"properties": {
+				"logo": "https://img.tianyancha.com/logo/lll/b9f96392959d7061f41c363ea90f26ea.png@!t07",
+				"name": "太康分公司",
+				"ntype": "f"
+			}
+		}, {
+			"id": "904997408",
+			"labels": ["Company"],
+			"properties": {
+				"logo": "https://img.tianyancha.com/logo/lll/e5bd717db96fcbfa438f3af449670319.png@!t07",
+				"aias": "万里运输",
+				"name": "河南万里运输集团有限公司安阳物流分公司",
+				"ntype": "f"
+			}
+		}, {
+			"id": "904996896",
+			"labels": ["Company"],
+			"properties": {
+				"logo": "https://img.tianyancha.com/logo/lll/623ed184429b51daa10c5ee36b0ce7a0.png@!t07",
+				"aias": "第五",
+				"name": "郑州第五分公司",
+				"ntype": "f"
+			}
+		}, {
+			"id": "904996816",
+			"labels": ["Company"],
+			"properties": {
+				"logo": "https://img.tianyancha.com/logo/lll/9e39d9a158f383388ceb498e3368ba52.png@!t07",
+				"aias": "第四",
+				"name": "郑州第四分公司",
+				"ntype": "f"
+			}
+		}, {
+			"id": "904996956",
+			"labels": ["Company"],
+			"properties": {
+				"logo": "https://img.tianyancha.com/logo/lll/b68ca72df07ed8d58daf21f2c32d5184.png@!t07",
+				"aias": "亨通运输",
+				"name": "平顶山亨通运输分公司",
+				"ntype": "f"
+			}
+		}, {
+			"id": "904996936",
+			"labels": ["Company"],
+			"properties": {
+				"logo": "https://img.tianyancha.com/logo/lll/2b343a6f87c4c1e218e92a1e42af8d2d.png@!t07",
+				"aias": "顺通货运",
+				"name": "顺通货运代理分公司",
+				"ntype": "f"
+			}
+		}, {
+			"id": "2982966347",
+			"labels": ["Company"],
+			"properties": {
+				"logo": "https://img.tianyancha.com/logo/lll/8bdd66a1f9a7505d95bb1c31aff28e00.png@!t07",
+				"aias": "万里运输",
+				"name": "河南万里运输集团有限公司罗山分公司",
+				"ntype": "f"
+			}
+		}, {
+			"id": "933098146",
+			"labels": ["Company"],
+			"properties": {
+				"logo": "https://img.tianyancha.com/logo/lll/6403a01978ae567bd742e173e36299aa.png@!t07",
+				"aias": "万里运输",
+				"name": "河南万里运输集团有限公司顺通货运代理分公司",
+				"ntype": "f"
+			}
+		}, {
+			"id": "904996990",
+			"labels": ["Company"],
+			"properties": {
+				"logo": "https://img.tianyancha.com/logo/lll/1ff92c2ee35b2e123efccc4822d34791.png@!t07",
+				"aias": "万里运输",
+				"name": "河南万里运输集团有限公司郑州汽车销售分公司",
+				"ntype": "f"
+			}
+		}, {
+			"id": "904996974",
+			"labels": ["Company"],
+			"properties": {
+				"logo": "https://img.tianyancha.com/logo/lll/89bd067585f1aadec879d3e6bfa1cf88.png@!t07",
+				"aias": "万里运输",
+				"name": "河南万里运输集团有限公司开封分公司",
+				"ntype": "f"
+			}
+		}, {
+			"id": "904997065",
+			"labels": ["Company"],
+			"properties": {
+				"logo": "https://img.tianyancha.com/logo/lll/e0dbdee792077b95b8e3cf24d61f3edd.png@!t07",
+				"aias": "万里运输",
+				"name": "河南万里运输集团有限公司许昌物流分公司",
+				"ntype": "f"
+			}
+		}, {
+			"id": "904997056",
+			"labels": ["Company"],
+			"properties": {
+				"logo": "https://img.tianyancha.com/logo/lll/1e193a3110410d5ecaf74b433b31fcbb.png@!t07",
+				"aias": "万里运输",
+				"name": "河南万里运输集团有限公司固始分公司",
+				"ntype": "f"
+			}
+		}, {
+			"id": "2982966353",
+			"labels": ["Company"],
+			"properties": {
+				"logo": "https://img.tianyancha.com/logo/lll/677c8cdd6b91838bee8e026020548bb1.png@!t07",
+				"aias": "万里运输",
+				"name": "河南万里运输集团有限公司新乡分公司",
+				"ntype": "f"
+			}
+		}, {
+			"id": "3306268999",
+			"labels": ["Company"],
+			"properties": {
+				"logo": "https://img.tianyancha.com/logo/lll/bb3202be874d6979a5f0f1792b7d5bc3.png@!t07",
+				"aias": "合效华道",
+				"name": "河南合效华道速运服务有限公司",
+				"ntype": "f"
+			}
+		}, {
+			"id": "2339499712",
+			"labels": ["Company"],
+			"properties": {
+				"logo": "https://img.tianyancha.com/logo/lll/4097d956f07822a7ec6e6c00368dee30.png@!t07",
+				"aias": "万里集团",
+				"name": "河南万里集团焦作利诚运输有限公司",
+				"ntype": "f"
+			}
+		}, {
+			"id": "574588491",
+			"labels": ["Company"],
+			"properties": {
+				"logo": "https://img.tianyancha.com/logo/lll/1c15546431acae5dc87d38c37234aaf9.png@!t07",
+				"name": "河南万里运输集团有限公司信阳平桥分公司",
+				"ntype": "f"
+			}
+		}, {
+			"id": "904997574",
+			"labels": ["Company"],
+			"properties": {
+				"logo": "https://img.tianyancha.com/logo/lll/9217ac42d7cb5bdffd2930d771b58733.png@!t07",
+				"aias": "万里运输",
+				"name": "河南万里运输集团有限公司信阳分公司",
+				"ntype": "f"
+			}
+		}, {
+			"id": "904997511",
+			"labels": ["Company"],
+			"properties": {
+				"logo": "https://img.tianyancha.com/logo/lll/a5af8229d9651c3d26d1c31a1416bdc9.png@!t07",
+				"aias": "万里运输",
+				"name": "河南万里运输集团有限公司鹤壁分公司",
+				"ntype": "f"
+			}
+		}, {
+			"id": "904997676",
+			"labels": ["Company"],
+			"properties": {
+				"logo": "https://img.tianyancha.com/logo/lll/d43be6b2e9b2cecd71148de243c099a7.png@!t07",
+				"name": "河南万里运输集团有限公司扶沟分公司",
+				"ntype": "f"
+			}
+		}, {
+			"id": "904997654",
+			"labels": ["Company"],
+			"properties": {
+				"logo": "https://img.tianyancha.com/logo/lll/61022bb712bfe288cd97e81b0f901ed7.png@!t07",
+				"aias": "万里运输",
+				"name": "河南万里运输集团有限公司信阳第二分公司",
+				"ntype": "f"
+			}
+		}, {
+			"id": "904997780",
+			"labels": ["Company"],
+			"properties": {
+				"logo": "https://img.tianyancha.com/logo/lll/1ac593a255142a3ee7e994f83c3cb2f9.png@!t07",
+				"aias": "万众轮胎",
+				"name": "河南万众轮胎销售有限公司",
+				"ntype": "f"
+			}
+		}, {
+			"id": "904997713",
+			"labels": ["Company"],
+			"properties": {
+				"logo": "https://img.tianyancha.com/logo/lll/6eb4784041ecfc75d0a4f5ec0d645d62.png@!t07",
+				"aias": "弘运集团",
+				"name": "信阳市弘运集团固始县汽车运输有限责任公司",
+				"ntype": "f"
+			}
+		}, {
+			"id": "2303648396",
+			"labels": ["Human"],
+			"properties": {
+				"name": "黎建华",
+				"ntype": "s"
+			}
+		}, {
+			"id": "904997930",
+			"labels": ["Company"],
+			"properties": {
+				"logo": "https://img.tianyancha.com/logo/lll/e41e020ce42657dabfb701fd5a28d9ec.png@!t07",
+				"aias": "运输公司",
+				"name": "郑州市上街区运输公司",
+				"ntype": "f"
+			}
+		}, {
+			"id": "2303648396",
+			"labels": ["Human"],
+			"properties": {
+				"name": "黎建华",
+				"ntype": "s"
+			}
+		}, {
+			"id": "2346517454",
+			"labels": ["Company"],
+			"properties": {
+				"logo": "https://img.tianyancha.com/logo/lll/c7d2b31669c17d8ad22fe54c066acb15.png@!t07",
+				"aias": "万里运输",
+				"name": "河南万里运输集团有限公司永城市东城区分公司",
+				"ntype": "f"
+			}
+		}, {
+			"id": "904997864",
+			"labels": ["Company"],
+			"properties": {
+				"logo": "https://img.tianyancha.com/logo/lll/a826e006e8a0c0bb7579be05c2bcefd6.png@!t07",
+				"aias": "汽车运输",
+				"name": "鹤壁市汽车运输公司",
+				"ntype": "f"
+			}
+		}, {
+			"id": "2452616518",
+			"labels": ["Company"],
+			"properties": {
+				"logo": "https://img.tianyancha.com/logo/lll/b872e8da01ca24c0d5cc72f04f65bfc5.png@!t07",
+				"aias": "万里运输",
+				"name": "河南万里运输集团有限公司禹州物流分公司",
+				"ntype": "f"
+			}
+		}, {
+			"id": "904998497",
+			"labels": ["Company"],
+			"properties": {
+				"logo": "https://img.tianyancha.com/logo/lll/aa751159985f02b2691c5cfb90cc62c5.png@!t07",
+				"aias": "万里运输",
+				"name": "河南万里运输集团有限公司太运站",
+				"ntype": "f"
+			}
+		}, {
+			"id": "607690153",
+			"labels": ["Company"],
+			"properties": {
+				"logo": "https://img.tianyancha.com/logo/lll/96b51031f51966baa94f0c50ad51c37b.png@!t07",
+				"aias": "万兴投资",
+				"name": "河南万兴投资有限公司",
+				"ntype": "f"
+			}
+		}, {
+			"id": "2982957311",
+			"labels": ["Company"],
+			"properties": {
+				"logo": "https://img.tianyancha.com/logo/lll/d9fcb0416402a2fac3fc673955662a99.png@!t07",
+				"aias": "万里运输",
+				"name": "河南万里运输集团有限公司平顶山裕华分公司",
+				"ntype": "f"
+			}
+		}, {
+			"id": "2982957307",
+			"labels": ["Company"],
+			"properties": {
+				"logo": "https://img.tianyancha.com/logo/lll/1ba4a76e426329e8bb885a57c11710a4.png@!t07",
+				"aias": "万里运输",
+				"name": "河南万里运输集团有限公司平顶山通泰分公司",
+				"ntype": "f"
+			}
+		}, {
+			"id": "2388212815",
+			"labels": ["Company"],
+			"properties": {
+				"logo": "https://img.tianyancha.com/logo/lll/db3a351ea0513f1177bbf5e74b88346e.png@!t07",
+				"aias": "万里运输",
+				"name": "河南万里运输集团有限公司郑州第六分公司",
+				"ntype": "f"
+			}
+		}, {
+			"id": "2983898777",
+			"labels": ["Company"],
+			"properties": {
+				"logo": "https://img.tianyancha.com/logo/lll/bf95029cd09c6efd3e7dac75a9f70419.png@!t07",
+				"aias": "万里运输",
+				"name": "河南万里运输集团有限公司永城分公司",
+				"ntype": "f"
+			}
+		}, {
+			"id": "2319679384",
+			"labels": ["Company"],
+			"properties": {
+				"logo": "https://img.tianyancha.com/logo/lll/4d986c8a04b0a0d4ce135bcacd20452c.png@!t07",
+				"aias": "万里汽车",
+				"name": "焦作市万里汽车运输有限公司",
+				"ntype": "f"
+			}
+		}, {
+			"id": "2982966340",
+			"labels": ["Company"],
+			"properties": {
+				"logo": "https://img.tianyancha.com/logo/lll/1c20c6807a30cb0799c0868ea0dcc505.png@!t07",
+				"aias": "万里运输",
+				"name": "河南万里运输集团有限公司长葛分公司",
+				"ntype": "f"
+			}
+		}, {
+			"id": "32652690",
+			"labels": ["Company"],
+			"properties": {
+				"logo": "https://img.tianyancha.com/logo/lll/04f8baebd85ad74d01d0237dcc66cb1b.png@!t07",
+				"aias": "利诚运输",
+				"name": "河南利诚运输服务有限公司",
+				"ntype": "f"
+			}
+		}, {
+			"id": "1929585877",
+			"labels": ["Human"],
+			"properties": {
+				"name": "张玉德",
+				"ntype": "s"
+			}
+		}, {
+			"id": "1923247452",
+			"labels": ["Human"],
+			"properties": {
+				"name": "张国铭",
+				"ntype": "s"
+			}
+		}, {
+			"id": "1920877200",
+			"labels": ["Human"],
+			"properties": {
+				"name": "张会云",
+				"ntype": "s"
+			}
+		}, {
+			"id": "889097164",
+			"labels": ["Company"],
+			"properties": {
+				"logo": "https://img.tianyancha.com/logo/lll/5e38b1fbdadb48ea44d379e8533d65ac.png@!t07",
+				"aias": "万里运输",
+				"name": "河南万里运输集团有限公司(4100001005634)",
+				"ntype": "f"
+			}
+		}, {
+			"id": "607689214",
+			"labels": ["Company"],
+			"properties": {
+				"logo": "https://img.tianyancha.com/logo/lll/b2e29bdeec877436f0ec7adfea76e15a.png@!t07",
+				"aias": "万里商贸",
+				"name": "扶沟万里商贸有限公司",
+				"ntype": "f"
+			}
+		}, {
+			"id": "184930420",
+			"labels": ["Company"],
+			"properties": {
+				"logo": "https://img.tianyancha.com/logo/lll/61e0548e3e5af00aa09307ff442deb00.png@!t07",
+				"aias": "万里运输",
+				"name": "河南万里运输集团有限公司鹤壁物流分公司",
+				"ntype": "f"
+			}
+		}, {
+			"id": "2377405894",
+			"labels": ["Company"],
+			"properties": {
+				"logo": "https://img.tianyancha.com/logo/lll/c2289e3759dbc9e8078da9513efa2dad.png@!t07",
+				"aias": "万里运输",
+				"name": "河南万里运输集团有限公司西平物流分公司",
+				"ntype": "f"
+			}
+		}, {
+			"id": "794121829",
+			"labels": ["Company"],
+			"properties": {
+				"logo": "https://img.tianyancha.com/logo/lll/a0f6c573975488c6e87d84fcd990bdd8.png@!t07",
+				"aias": "万里运输",
+				"name": "河南万里运输集团有限公司通许分公司",
+				"ntype": "f"
+			}
+		}, {
+			"id": "79088083",
+			"labels": ["Company"],
+			"properties": {
+				"logo": "https://img.tianyancha.com/logo/lll/b8dff7ccce8ec5f8fb9f2cf35fef1efa.png@!t07",
+				"aias": "万里运输",
+				"name": "河南万里运输集团有限公司沈丘分公司",
+				"ntype": "f"
+			}
+		}, {
+			"id": "2344079841",
+			"labels": ["Company"],
+			"properties": {
+				"logo": "https://img.tianyancha.com/logo/lll/d94362ccd06299ca37293dc399500f26.png@!t07",
+				"aias": "万里集团",
+				"name": "河南万里集团郑州腾飞运输有限公司",
+				"ntype": "f"
+			}
+		}, {
+			"id": "2995691167",
+			"labels": ["Company"],
+			"properties": {
+				"logo": "https://img.tianyancha.com/logo/lll/d7a694f723efb3aa9b7ea585533f22b1.png@!t07",
+				"aias": "万里运输",
+				"name": "河南万里运输集团有限公司漯河物流分公",
+				"ntype": "f"
+			}
+		}, {
+			"id": "2995691166",
+			"labels": ["Company"],
+			"properties": {
+				"logo": "https://img.tianyancha.com/logo/lll/6154c35217263a68aea66e4a53e87062.png@!t07",
+				"aias": "万里运输",
+				"name": "河南万里运输集团有限公司周口物流分公",
+				"ntype": "f"
+			}
+		}, {
+			"id": "2995691174",
+			"labels": ["Company"],
+			"properties": {
+				"logo": "https://img.tianyancha.com/logo/lll/45bce0bcc020e555fea143335315ee08.png@!t07",
+				"aias": "万里运输",
+				"name": "河南万里运输集团有限公司安阳物流分公",
+				"ntype": "f"
+			}
+		}, {
+			"id": "2067480152",
+			"labels": ["Human"],
+			"properties": {
+				"name": "王向阳",
+				"ntype": "s"
+			}
+		}, {
+			"id": "2995691172",
+			"labels": ["Company"],
+			"properties": {
+				"logo": "https://img.tianyancha.com/logo/lll/fd538e5871338d0a51212b460ae5ec68.png@!t07",
+				"aias": "万里运输",
+				"name": "河南万里运输集团有限公司焦作物流分公",
+				"ntype": "f"
+			}
+		}, {
+			"id": "2279104435",
+			"labels": ["Human"],
+			"properties": {
+				"name": "马德成",
+				"ntype": "s"
+			}
+		}, {
+			"id": "2451986067",
+			"labels": ["Company"],
+			"properties": {
+				"logo": "https://img.tianyancha.com/logo/lll/4e953cbada7ea53b5387daaa18dd1b4c.png@!t07",
+				"aias": "万里运输",
+				"name": "河南万里运输集团有限公司郑州物流第四分公司",
+				"ntype": "f"
+			}
+		}, {
+			"id": "2995691190",
+			"labels": ["Company"],
+			"properties": {
+				"logo": "https://img.tianyancha.com/logo/lll/a5dda74f2ac1f5b926f1a079cf54b04e.png@!t07",
+				"aias": "万里运输",
+				"name": "河南万里运输集团有限公司永城市西城区",
+				"ntype": "f"
+			}
+		}, {
+			"id": "2995691186",
+			"labels": ["Company"],
+			"properties": {
+				"logo": "https://img.tianyancha.com/logo/lll/abba489798f1f71e94a60db4370fc66f.png@!t07",
+				"aias": "万里运输",
+				"name": "河南万里运输集团有限公司商丘长运分公",
+				"ntype": "f"
+			}
+		}, {
+			"id": "2995691150",
+			"labels": ["Company"],
+			"properties": {
+				"logo": "https://img.tianyancha.com/logo/lll/1492c45afc878057b27dcee4e4079727.png@!t07",
+				"aias": "万里运输",
+				"name": "河南万里运输集团有限公司信阳第二分公",
+				"ntype": "f"
+			}
+		}, {
+			"id": "2995691153",
+			"labels": ["Company"],
+			"properties": {
+				"logo": "https://img.tianyancha.com/logo/lll/aed9d11d27293053601660a86bf5a2d4.png@!t07",
+				"aias": "万里运输",
+				"name": "河南万里运输集团有限公司通许第二分公",
+				"ntype": "f"
+			}
+		}, {
+			"id": "2995691151",
+			"labels": ["Company"],
+			"properties": {
+				"logo": "https://img.tianyancha.com/logo/lll/36ad93ceb0cd65454d56b2f90e59b1a2.png@!t07",
+				"aias": "万里运输",
+				"name": "河南万里运输集团有限公司周口化学危险",
+				"ntype": "f"
+			}
+		}, {
+			"id": "2995691159",
+			"labels": ["Company"],
+			"properties": {
+				"logo": "https://img.tianyancha.com/logo/lll/45937ec4db17bc7d585fc942a7f2a10a.png@!t07",
+				"aias": "万里运输",
+				"name": "河南万里运输集团有限公司郑州汽车销售",
+				"ntype": "f"
+			}
+		}, {
+			"id": "2995691155",
+			"labels": ["Company"],
+			"properties": {
+				"logo": "https://img.tianyancha.com/logo/lll/87886d72336e5d03f12ca7542734c308.png@!t07",
+				"aias": "万里运输",
+				"name": "河南万里运输集团有限公司冷藏运输分公",
+				"ntype": "f"
+			}
+		}, {
+			"id": "1926731633",
+			"labels": ["Human"],
+			"properties": {
+				"name": "张新国",
+				"ntype": "s"
+			}
+		}, {
+			"id": "2995691162",
+			"labels": ["Company"],
+			"properties": {
+				"logo": "https://img.tianyancha.com/logo/lll/4cd7f1c1dea71c2283fa688255e21e79.png@!t07",
+				"aias": "万里运输",
+				"name": "河南万里运输集团有限公司危险品运输分",
+				"ntype": "f"
+			}
+		}, {
+			"id": "2320050720",
+			"labels": ["Company"],
+			"properties": {
+				"logo": "https://img.tianyancha.com/logo/lll/77062c9165cb8f9020bcd5382a4b6235.png@!t07",
+				"aias": "中远酒店",
+				"name": "河南中远酒店服务有限公司",
+				"ntype": "f"
+			}
+		}, {
+			"id": "2995691160",
+			"labels": ["Company"],
+			"properties": {
+				"logo": "https://img.tianyancha.com/logo/lll/4ffc60ee07e245b4074b9135875f767d.png@!t07",
+				"aias": "万里运输",
+				"name": "河南万里运输集团有限公司许昌物流分公",
+				"ntype": "f"
+			}
+		}, {
+			"id": "904995456",
+			"labels": ["Company"],
+			"properties": {
+				"logo": "https://img.tianyancha.com/logo/lll/e5fdb85fd6c5ba03f8d25b2dc59f66ca.png@!t07",
+				"aias": "万里运输",
+				"name": "河南万里运输集团有限公司永城市西城区分公司",
+				"ntype": "f"
+			}
+		}, {
+			"id": "904995449",
+			"labels": ["Company"],
+			"properties": {
+				"logo": "https://img.tianyancha.com/logo/lll/9a157d24a79160b843976a4a10a7e322.png@!t07",
+				"aias": "万里运输",
+				"name": "河南万里运输集团有限公司商丘分公司",
+				"ntype": "f"
+			}
+		}, {
+			"id": "904995562",
+			"labels": ["Company"],
+			"properties": {
+				"logo": "https://img.tianyancha.com/logo/lll/85a495a9497faa506627d028d05ba6a4.png@!t07",
+				"aias": "万里运输",
+				"name": "河南万里运输集团有限公司郑州分公司",
+				"ntype": "f"
+			}
+		}, {
+			"id": "904995491",
+			"labels": ["Company"],
+			"properties": {
+				"logo": "https://img.tianyancha.com/logo/lll/cc3abed9d6b296a9c7c8f54da0ecc11c.png@!t07",
+				"aias": "万里运输",
+				"name": "河南万里运输集团有限公司物流分公司",
+				"ntype": "f"
+			}
+		}, {
+			"id": "904995665",
+			"labels": ["Company"],
+			"properties": {
+				"logo": "https://img.tianyancha.com/logo/lll/eac7aa1b70fbfca01823a65784828794.png@!t07",
+				"aias": "万里运输",
+				"name": "河南万里运输集团有限公司太康分公司",
+				"ntype": "f"
+			}
+		}, {
+			"id": "904995656",
+			"labels": ["Company"],
+			"properties": {
+				"logo": "https://img.tianyancha.com/logo/lll/549314b30e81070d4167d883df890e05.png@!t07",
+				"aias": "第二",
+				"name": "郑州第二分公司",
+				"ntype": "f"
+			}
+		}, {
+			"id": "904995822",
+			"labels": ["Company"],
+			"properties": {
+				"logo": "https://img.tianyancha.com/logo/lll/ecfa8566ddc68d7c74c799f6c0e155b0.png@!t07",
+				"aias": "修理厂",
+				"name": "许昌修理厂",
+				"ntype": "f"
+			}
+		}, {
+			"id": "904995724",
+			"labels": ["Company"],
+			"properties": {
+				"logo": "https://img.tianyancha.com/logo/lll/2dfbdf958ef6b40ad64b0deca7e06228.png@!t07",
+				"aias": "万里运输",
+				"name": "河南万里运输集团有限公司周口分公司",
+				"ntype": "f"
+			}
+		}, {
+			"id": "904995163",
+			"labels": ["Company"],
+			"properties": {
+				"logo": "https://img.tianyancha.com/logo/lll/696fa20e2eb0fc0cc096c2fae483ade0.png@!t07",
+				"aias": "万里运输",
+				"name": "河南万里运输集团有限公司宝丰分公司",
+				"ntype": "f"
+			}
+		}, {
+			"id": "2343118843",
+			"labels": ["Company"],
+			"properties": {
+				"logo": "https://img.tianyancha.com/logo/lll/a2213f2d6d753f7dfde18b12b1701fbf.png@!t07",
+				"aias": "阳光",
+				"name": "信阳市阳光汽车贸易有限公司",
+				"ntype": "f"
+			}
+		}, {
+			"id": "904995256",
+			"labels": ["Company"],
+			"properties": {
+				"logo": "https://img.tianyancha.com/logo/lll/02738d95abb5440b94c28839465a38ac.png@!t07",
+				"aias": "万里运输",
+				"name": "河南万里运输集团有限公司鲁山分公司",
+				"ntype": "f"
+			}
+		}, {
+			"id": "904995243",
+			"labels": ["Company"],
+			"properties": {
+				"logo": "https://img.tianyancha.com/logo/lll/ce9a9321ecae3080bd705699283a755c.png@!t07",
+				"aias": "万里运输",
+				"name": "河南万里运输集团有限公司郏县分公司",
+				"ntype": "f"
+			}
+		}, {
+			"id": "904995373",
+			"labels": ["Company"],
+			"properties": {
+				"logo": "https://img.tianyancha.com/logo/lll/163901141a6186a87918a810958db97c.png@!t07",
+				"aias": "汽车销售",
+				"name": "郑州汽车销售分公司",
+				"ntype": "f"
+			}
+		}, {
+			"id": "2451887902",
+			"labels": ["Company"],
+			"properties": {
+				"logo": "https://img.tianyancha.com/logo/lll/8a8c062a11a8a0343095c7b9d60cdfbd.png@!t07",
+				"aias": "万里运输",
+				"name": "河南万里运输集团有限公司济源物流分公司",
+				"ntype": "f"
+			}
+		}, {
+			"id": "904995324",
+			"labels": ["Company"],
+			"properties": {
+				"logo": "https://img.tianyancha.com/logo/lll/6f110d70c988fd0035e4eea551e0f38a.png@!t07",
+				"name": "河南万里运输集团有限公司汝州分公司",
+				"ntype": "f"
+			}
+		}, {
+			"id": "904995393",
+			"labels": ["Company"],
+			"properties": {
+				"logo": "https://img.tianyancha.com/logo/lll/0376b103ab784a720d2d6a171fda65ec.png@!t07",
+				"aias": "万里运输",
+				"name": "河南万里运输集团有限公司商丘长运分公司",
+				"ntype": "f"
+			}
+		}, {
+			"id": "904995381",
+			"labels": ["Company"],
+			"properties": {
+				"logo": "https://img.tianyancha.com/logo/lll/0b54f635fdfdc9b8e6ce1c468018de10.png@!t07",
+				"aias": "万达",
+				"name": "驻马店万达分公司",
+				"ntype": "f"
+			}
+		}, {
+			"id": "437395899",
+			"labels": ["Company"],
+			"properties": {
+				"logo": "https://img.tianyancha.com/logo/lll/9097bee74f341d7224a145dfd3dcc2f6.png@!t07",
+				"aias": "华远旅游",
+				"name": "周口市华远旅游运输有限公司",
+				"ntype": "f"
+			}
+		}, {
+			"id": "1470932082",
+			"labels": ["Company"],
+			"properties": {
+				"logo": "https://img.tianyancha.com/logo/lll/ec06719bb6f37bbf3d705eb3756f12ba.png@!t07",
+				"aias": "晨翔汽车",
+				"name": "河南晨翔汽车销售有限公司",
+				"ntype": "f"
+			}
+		}, {
+			"id": "2357441421",
+			"labels": ["Company"],
+			"properties": {
+				"logo": "https://img.tianyancha.com/logo/lll/925863b4bb7fae91f09244ad5b738cab.png@!t07",
+				"aias": "万里运输",
+				"name": "河南万里运输集团有限公司旅游客运分公司",
+				"ntype": "f"
+			}
+		}, {
+			"id": "2452621231",
+			"labels": ["Company"],
+			"properties": {
+				"logo": "https://img.tianyancha.com/logo/lll/a67bfb615da21c55e559df2b326120e6.png@!t07",
+				"aias": "万里运输",
+				"name": "河南万里运输集团有限公司濮阳物流分公司",
+				"ntype": "f"
+			}
+		}, {
+			"id": "345575971",
+			"labels": ["Company"],
+			"properties": {
+				"logo": "https://img.tianyancha.com/logo/lll/7ee62fadf86a0a2f11beb212ab719970.png@!t07",
+				"aias": "第二运输",
+				"name": "开封市第二运输总公司",
+				"ntype": "f"
+			}
+		}, {
+			"id": "1748636033",
+			"labels": ["Company"],
+			"properties": {
+				"logo": "https://img.tianyancha.com/logo/lll/3758137de80553dc3ec62173c08aafe3.png@!t07",
+				"aias": "寻根问缘",
+				"name": "郑州寻根问缘贸易有限公司",
+				"ntype": "f"
+			}
+		}, {
+			"id": "2451998433",
+			"labels": ["Company"],
+			"properties": {
+				"logo": "https://img.tianyancha.com/logo/lll/530109ed6c672053192743773dbf9ec2.png@!t07",
+				"aias": "万里运输",
+				"name": "河南万里运输集团有限公司郑州物流第十二分公司",
+				"ntype": "f"
+			}
+		}, {
+			"id": "609378482",
+			"labels": ["Company"],
+			"properties": {
+				"logo": "https://img.tianyancha.com/logo/lll/6321e70861ff31aeff28f05cf76dfbd0.png@!t07",
+				"aias": "万里运输",
+				"name": "河南万里运输集团有限公司冷藏运输分公司",
+				"ntype": "f"
+			}
+		}, {
+			"id": "437397121",
+			"labels": ["Company"],
+			"properties": {
+				"logo": "https://img.tianyancha.com/logo/lll/77595bc2345b8d8172d1b40c4cdbe5b1.png@!t07",
+				"aias": "万里运输",
+				"name": "河南万里运输集团周口富达运输有限公司",
+				"ntype": "f"
+			}
+		}, {
+			"id": "2564106916",
+			"labels": ["Company"],
+			"properties": {
+				"logo": "https://img.tianyancha.com/logo/lll/97e4f773b00f025de787aef1829fe799.png@!t07",
+				"aias": "物流",
+				"name": "漳州开发区万里物流有限公司",
+				"ntype": "f"
+			}
+		}, {
+			"id": "954955443",
+			"labels": ["Company"],
+			"properties": {
+				"logo": "https://img.tianyancha.com/logo/lll/0818dd64268e5fcebae8cbd3f741bb0a.png@!t07",
+				"aias": "万里运输",
+				"name": "河南万里运输集团有限公司乌鲁木齐市物流分公司",
+				"ntype": "f"
+			}
+		}, {
+			"id": "2983898780",
+			"labels": ["Human"],
+			"properties": {
+				"name": "陈水莲476600",
+				"ntype": "s"
+			}
+		}, {
+			"id": "786670691",
+			"labels": ["Company"],
+			"properties": {
+				"logo": "https://img.tianyancha.com/logo/lll/52c1163543f83aec73f7599e50822a8e.png@!t07",
+				"aias": "万里汽车",
+				"name": "河南万里汽车工程机械销售服务有限公司",
+				"ntype": "f"
+			}
+		}, {
+			"id": "2254804796",
+			"labels": ["Human"],
+			"properties": {
+				"name": "陈水莲",
+				"ntype": "s"
+			}
+		}, {
+			"id": "2451880381",
+			"labels": ["Company"],
+			"properties": {
+				"logo": "https://img.tianyancha.com/logo/lll/2e053200c82fb4e6034bfeb3f988e219.png@!t07",
+				"aias": "万里运输",
+				"name": "河南万里运输集团有限公司汽车销售分公司",
+				"ntype": "f"
+			}
+		}, {
+			"id": "2319912799",
+			"labels": ["Company"],
+			"properties": {
+				"logo": "https://img.tianyancha.com/logo/lll/ea9def5e7f548a059c02b623a1b8471c.png@!t07",
+				"aias": "万众汽车",
+				"name": "周口万众汽车销售服务有限公司",
+				"ntype": "f"
+			}
+		}, {
+			"id": "2345774454",
+			"labels": ["Company"],
+			"properties": {
+				"logo": "https://img.tianyancha.com/logo/lll/bc50acdfe3ab32ea2cb32587e88b5863.png@!t07",
+				"aias": "利诚运输",
+				"name": "驻马店市利诚运输有限公司",
+				"ntype": "f"
+			}
+		}, {
+			"id": "2000492027",
+			"labels": ["Human"],
+			"properties": {
+				"name": "杨德志",
+				"ntype": "s"
+			}
+		}, {
+			"id": "2071262540",
+			"labels": ["Human"],
+			"properties": {
+				"name": "王振武",
+				"ntype": "s"
+			}
+		}, {
+			"id": "2344608951",
+			"labels": ["Company"],
+			"properties": {
+				"logo": "https://img.tianyancha.com/logo/lll/992455fddd790a4f4b2507522462417d.png@!t07",
+				"aias": "万里运输",
+				"name": "河南万里运输集团有限公司商丘危险化学品运输分公司",
+				"ntype": "f"
+			}
+		}, {
+			"id": "889096824",
+			"labels": ["Company"],
+			"properties": {
+				"logo": "https://img.tianyancha.com/logo/lll/3b4cf7adb2dc2de86901af05381dc948.png@!t07",
+				"aias": "万里集团",
+				"name": "河南万里集团中升运输有限公司",
+				"ntype": "f"
+			}
+		}, {
+			"id": "760485251",
+			"labels": ["Company"],
+			"properties": {
+				"logo": "https://img.tianyancha.com/logo/lll/75952f5f94c011e762bfa68307764471.png@!t07",
+				"aias": "万里运输",
+				"name": "河南万里运输集团有限公司平顶山分公司",
+				"ntype": "f"
+			}
+		}, {
+			"id": "889096871",
+			"labels": ["Company"],
+			"properties": {
+				"logo": "https://img.tianyancha.com/logo/lll/ed1012900955accc7c5854fbbaa58f52.png@!t07",
+				"aias": "万里运输",
+				"name": "河南万里运输集团有限公司镇平分公司",
+				"ntype": "f"
+			}
+		}, {
+			"id": "448764181",
+			"labels": ["Company"],
+			"properties": {
+				"logo": "https://img.tianyancha.com/logo/lll/9cd178febad697be2d1b78ecaff7a7a7.png@!t07",
+				"aias": "万里运输",
+				"name": "河南万里运输集团有限公司周口化学危险品分公司",
+				"ntype": "f"
+			}
+		}, {
+			"id": "734986690",
+			"labels": ["Company"],
+			"properties": {
+				"logo": "https://img.tianyancha.com/logo/lll/28030940b03bf2be7255856dfd70e882.png@!t07",
+				"aias": "万里运输",
+				"name": "河南万里运输集团濮阳世纪鸿途运输有限公司",
+				"ntype": "f"
+			}
+		}, {
+			"id": "2346435823",
+			"labels": ["Company"],
+			"properties": {
+				"logo": "https://img.tianyancha.com/logo/lll/b64ae212a87f04f7be015c752d44fd06.png@!t07",
+				"aias": "万里运输",
+				"name": "河南万里运输集团商丘创兴运输有限公司",
+				"ntype": "f"
+			}
+		}, {
+			"id": "2451978850",
+			"labels": ["Company"],
+			"properties": {
+				"logo": "https://img.tianyancha.com/logo/lll/6eba81694c14f800a5c5cb5cb13181d8.png@!t07",
+				"aias": "万里运输",
+				"name": "河南万里运输集团有限公司郑州物流第十分公司",
+				"ntype": "f"
+			}
+		}, {
+			"id": "2943374773",
+			"labels": ["Company"],
+			"properties": {
+				"logo": "https://img.tianyancha.com/logo/lll/87aa6f3db6cfbee7c7d721fe12aeba50.png@!t07",
+				"aias": "万里运输",
+				"name": "河南万里运输集团有限公司驻马店分公司",
+				"ntype": "f"
+			}
+		}, {
+			"id": "2410461606",
+			"labels": ["Company"],
+			"properties": {
+				"logo": "https://img.tianyancha.com/logo/lll/e9055ec3347079ec9a5ed82c1bcb99c2.png@!t07",
+				"aias": "万里运输",
+				"name": "河南万里运输集团有限公司西安分公司",
+				"ntype": "f"
+			}
+		}, {
+			"id": "2451887240",
+			"labels": ["Company"],
+			"properties": {
+				"logo": "https://img.tianyancha.com/logo/lll/79dd61dd216f8626974d3c8af84a556e.png@!t07",
+				"aias": "万里运输",
+				"name": "河南万里运输集团有限公司郑州物流第七分公司",
+				"ntype": "f"
+			}
+		}, {
+			"id": "2335242403",
+			"labels": ["Company"],
+			"properties": {
+				"logo": "https://img.tianyancha.com/logo/lll/a3b6f8802c6cca9c3f12704c8f407a2f.png@!t07",
+				"aias": "万里运输",
+				"name": "河南万里运输集团有限公司通许第三分公司",
+				"ntype": "f"
+			}
+		}, {
+			"id": "80037554",
+			"labels": ["Company"],
+			"properties": {
+				"logo": "https://img.tianyancha.com/logo/lll/8e213340bc0de20efa4a07909f3bf5a9.png@!t07",
+				"aias": "万里运输",
+				"name": "河南万里运输集团有限公司",
+				"ntype": "f"
+			}
+		}, {
+			"id": "905012869",
+			"labels": ["Company"],
+			"properties": {
+				"logo": "https://img.tianyancha.com/logo/lll/cf0f673763094b6b14d276ca64f069c9.png@!t07",
+				"aias": "万里运输",
+				"name": "河南万里运输集团有限公司漯河分公司郾城客车队",
+				"ntype": "f"
+			}
+		}, {
+			"id": "2943371674",
+			"labels": ["Company"],
+			"properties": {
+				"logo": "https://img.tianyancha.com/logo/lll/e64796cb1d5323283b186dc64bab556c.png@!t07",
+				"aias": "万里运输",
+				"name": "河南万里运输集团有限公司平顶山亨通运输分公司",
+				"ntype": "f"
+			}
+		}, {
+			"id": "2580211031",
+			"labels": ["Company"],
+			"properties": {
+				"logo": "https://img.tianyancha.com/logo/lll/82cb88a5376d58f07511cdadde7b62fa.png@!t07",
+				"aias": "万里运输",
+				"name": "河南万里运输集团有限公司上海宝山分公司",
+				"ntype": "f"
+			}
+		}, {
+			"id": "2281354710",
+			"labels": ["Human"],
+			"properties": {
+				"name": "马英许",
+				"ntype": "s"
+			}
+		}, {
+			"id": "742757438",
+			"labels": ["Company"],
+			"properties": {
+				"logo": "https://img.tianyancha.com/logo/lll/f67d3f2eca6adcd6ffe2746a8d6604d1.png@!t07",
+				"name": "河南万里运输集团有限公司邓州分公司",
+				"ntype": "f"
+			}
+		}, {
+			"id": "2451891227",
+			"labels": ["Company"],
+			"properties": {
+				"logo": "https://img.tianyancha.com/logo/lll/5384519202e44dfe6164321e2df741db.png@!t07",
+				"aias": "万里运输",
+				"name": "河南万里运输集团有限公司郑州物流第二分公司",
+				"ntype": "f"
+			}
+		}, {
+			"id": "436316505",
+			"labels": ["Company"],
+			"properties": {
+				"logo": "https://img.tianyancha.com/logo/lll/491c7ce678306543d70b69b692e087a8.png@!t07",
+				"aias": "弘运运输",
+				"name": "信阳市弘运运输集团有限公司",
+				"ntype": "f"
+			}
+		}, {
+			"id": "2366950078",
+			"labels": ["Company"],
+			"properties": {
+				"logo": "https://img.tianyancha.com/logo/lll/1cee495bd6ca734455045bf325efa5c7.png@!t07",
+				"aias": "万里昌铃",
+				"name": "长葛市万里昌铃汽车销售有限公司",
+				"ntype": "f"
+			}
+		}, {
+			"id": "79462219",
+			"labels": ["Company"],
+			"properties": {
+				"logo": "https://img.tianyancha.com/logo/lll/8555d375f5b1df9559032c345205c322.png@!t07",
+				"aias": "万里运输",
+				"name": "河南万里运输集团有限公司扶沟二分公司",
+				"ntype": "f"
+			}
+		}, {
+			"id": "253639324",
+			"labels": ["Company"],
+			"properties": {
+				"logo": "https://img.tianyancha.com/logo/lll/3faeca66586fec63445c1bd7c541d330.png@!t07",
+				"aias": "万兴",
+				"name": "许昌万兴建筑工程有限公司",
+				"ntype": "f"
+			}
+		}, {
+			"id": "3042303437",
+			"labels": ["Company"],
+			"properties": {
+				"logo": "https://img.tianyancha.com/logo/lll/ee4f22fe2eb3e2edbf2b41015fb81bc9.png@!t07",
+				"aias": "秋氽企业",
+				"name": "上海秋氽企业管理咨询有限公司",
+				"ntype": "f"
+			}
+		}, {
+			"id": "2584041622",
+			"labels": ["Company"],
+			"properties": {
+				"logo": "https://img.tianyancha.com/logo/lll/faaf3d3836ce032eb1f7b6be9bd1326b.png@!t07",
+				"aias": "万里运输",
+				"name": "河南万里运输集团有限公司广州物流分公司",
+				"ntype": "f"
+			}
+		}, {
+			"id": "2289846230",
+			"labels": ["Human"],
+			"properties": {
+				"name": "魏淑萍",
+				"ntype": "s"
+			}
+		}, {
+			"id": "1275023842",
+			"labels": ["Company"],
+			"properties": {
+				"logo": "https://img.tianyancha.com/logo/lll/6190922dbfcb707ce732d64697ae5142.png@!t07",
+				"name": "河南万里运输集团有限公司上海分公司",
+				"ntype": "f"
+			}
+		}, {
+			"id": "378974131",
+			"labels": ["Company"],
+			"properties": {
+				"logo": "https://img.tianyancha.com/logo/lll/ed45e1ced429abb5057d773be4ba3c83.png@!t07",
+				"aias": "万里运输",
+				"name": "河南万里运输集团有限公司厦门分公司",
+				"ntype": "f"
+			}
+		}, {
+			"id": "2015036041",
+			"labels": ["Human"],
+			"properties": {
+				"name": "柳学军",
+				"ntype": "s"
+			}
+		}, {
+			"id": "902464424",
+			"labels": ["Company"],
+			"properties": {
+				"logo": "https://img.tianyancha.com/logo/lll/96d85c011bf16ee029749372c8eb80bb.png@!t07",
+				"aias": "万里运输",
+				"name": "河南万里运输集团有限公司漯河亿众分公司",
+				"ntype": "f"
+			}
+		}, {
+			"id": "1458054284",
+			"labels": ["Company"],
+			"properties": {
+				"logo": "https://img.tianyancha.com/logo/lll/0378579dafdb3dd87ae6e4eec430428e.png@!t07",
+				"aias": "万里运输",
+				"name": "河南万里运输集团有限公司济源运输分公司",
+				"ntype": "f"
+			}
+		}, {
+			"id": "34347778",
+			"labels": ["Company"],
+			"properties": {
+				"logo": "https://img.tianyancha.com/logo/lll/a0332962f4b5857fbb70f30fcca5603c.png@!t07",
+				"aias": "万里管理",
+				"name": "河南万里管理咨询有限公司",
+				"ntype": "f"
+			}
+		}, {
+			"id": "1982985510",
+			"labels": ["Human"],
+			"properties": {
+				"name": "李富志",
+				"ntype": "s"
+			}
+		}, {
+			"id": "1455130867",
+			"labels": ["Company"],
+			"properties": {
+				"logo": "https://img.tianyancha.com/logo/lll/6b6627a16430676444fb467428745397.png@!t07",
+				"aias": "世纪中原",
+				"name": "河南世纪中原体育文化有限公司",
+				"ntype": "f"
+			}
+		}, {
+			"id": "2451833916",
+			"labels": ["Company"],
+			"properties": {
+				"logo": "https://img.tianyancha.com/logo/lll/02cf37780328a25c58f14bff4c3cce58.png@!t07",
+				"aias": "万里运输",
+				"name": "河南万里运输集团有限公司许昌外事旅游分公司",
+				"ntype": "f"
+			}
+		}, {
+			"id": "2964786783",
+			"labels": ["Company"],
+			"properties": {
+				"logo": "https://img.tianyancha.com/logo/lll/ca5cc2692053e468e3821bf86ed06391.png@!t07",
+				"aias": "万里运输",
+				"name": "河南万里运输集团有限公司郑州第三分公司",
+				"ntype": "f"
+			}
+		}, {
+			"id": "2332490986",
+			"labels": ["Company"],
+			"properties": {
+				"logo": "https://img.tianyancha.com/logo/lll/07c09d678fdd2df5429c52d7d0f686fc.png@!t07",
+				"aias": "万里运输",
+				"name": "河南万里运输集团有限公司安阳殷都分公司",
+				"ntype": "f"
+			}
+		}, {
+			"id": "2964786784",
+			"labels": ["Company"],
+			"properties": {
+				"logo": "https://img.tianyancha.com/logo/lll/23187544341c2d7644d182ccd715a0ce.png@!t07",
+				"aias": "万里运输",
+				"name": "河南万里运输集团有限公司南阳分公司",
+				"ntype": "f"
+			}
+		}, {
+			"id": "457472219",
+			"labels": ["Company"],
+			"properties": {
+				"logo": "https://img.tianyancha.com/logo/lll/e645af2686af9af8d9e55a4f856a6772.png@!t07",
+				"aias": "东方运输",
+				"name": "河南省东方运输工程有限公司",
+				"ntype": "f"
+			}
+		}, {
+			"id": "2451977975",
+			"labels": ["Company"],
+			"properties": {
+				"logo": "https://img.tianyancha.com/logo/lll/cef71f3f9820c7a30a388d6bbd4d8b39.png@!t07",
+				"aias": "万兴置业",
+				"name": "商丘市万兴置业有限公司",
+				"ntype": "f"
+			}
+		}, {
+			"id": "1983071842",
+			"labels": ["Human"],
+			"properties": {
+				"name": "李小宾",
+				"ntype": "s"
+			}
+		}, {
+			"id": "2339516949",
+			"labels": ["Company"],
+			"properties": {
+				"logo": "https://img.tianyancha.com/logo/lll/35a010406d08c64d8a357132e75392a4.png@!t07",
+				"aias": "万里",
+				"name": "湖北万里工程机械有限公司",
+				"ntype": "f"
+			}
+		}, {
+			"id": "851146693",
+			"labels": ["Company"],
+			"properties": {
+				"logo": "https://img.tianyancha.com/logo/lll/30c8a38715daf508fd124abbfac756ba.png@!t07",
+				"aias": "上街",
+				"name": "郑州市上街中小企业担保有限公司",
+				"ntype": "f"
+			}
+		}, {
+			"id": "1621564672",
+			"labels": ["Company"],
+			"properties": {
+				"logo": "https://img.tianyancha.com/logo/lll/fd5a681d9ad8c3b9099e57dbed9be382.png@!t07",
+				"aias": "万众汽车",
+				"name": "河南万众汽车租赁服务有限公司",
+				"ntype": "f"
+			}
+		}, {
+			"id": "3036079685",
+			"labels": ["Company"],
+			"properties": {
+				"logo": "https://img.tianyancha.com/logo/lll/5c723ece4645283249d1f48cb7702c68.png@!t07",
+				"aias": "金创源",
+				"name": "河南金创源汽车销售有限公司",
+				"ntype": "f"
+			}
+		}, {
+			"id": "1670763333",
+			"labels": ["Company"],
+			"properties": {
+				"logo": "https://img.tianyancha.com/logo/lll/514bcef7adcb30173e6cc15348e19f29.png@!t07",
+				"name": "河南金梧桐实业有限公司",
+				"ntype": "f"
+			}
+		}, {
+			"id": "890640933",
+			"labels": ["Company"],
+			"properties": {
+				"logo": "https://img.tianyancha.com/logo/lll/73e1ec8a21e4ff0cc9cdb40c085b0103.png@!t07",
+				"aias": "明桦",
+				"name": "周口市明桦房地产开发有限公司",
+				"ntype": "f"
+			}
+		}, {
+			"id": "954948294",
+			"labels": ["Company"],
+			"properties": {
+				"logo": "https://img.tianyancha.com/logo/lll/9cb34eed010c235f0261390226756cbe.png@!t07",
+				"aias": "万里运输",
+				"name": "河南万里运输集团有限公司乌鲁木齐分公司",
+				"ntype": "f"
+			}
+		}, {
+			"id": "2092065837",
+			"labels": ["Human"],
+			"properties": {
+				"name": "石成龙",
+				"ntype": "s"
+			}
+		}, {
+			"id": "2376415795",
+			"labels": ["Company"],
+			"properties": {
+				"logo": "https://img.tianyancha.com/logo/lll/ff6f4246dbcbfa0eb4d271b8321a904c.png@!t07",
+				"aias": "万里运输",
+				"name": "河南万里运输集团有限公司新乡物流分公司",
+				"ntype": "f"
+			}
+		}, {
+			"id": "2454883702",
+			"labels": ["Company"],
+			"properties": {
+				"logo": "https://img.tianyancha.com/logo/lll/6c46d9cc89c13a3873d7a9d47be25376.png@!t07",
+				"aias": "万里运输",
+				"name": "河南万里运输集团有限公司郑州物流第八分公司",
+				"ntype": "f"
+			}
+		}, {
+			"id": "495102745",
+			"labels": ["Company"],
+			"properties": {
+				"logo": "https://img.tianyancha.com/logo/lll/ff321d19a5c61a1d88193b5857e9ac8a.png@!t07",
+				"aias": "万里运输",
+				"name": "河南万里运输集团有限公司太康公司",
+				"ntype": "f"
+			}
+		}, {
+			"id": "2346459408",
+			"labels": ["Company"],
+			"properties": {
+				"logo": "https://img.tianyancha.com/logo/lll/409f0cf12a8faf0d7eb8e9662198c400.png@!t07",
+				"aias": "万里运输",
+				"name": "河南万里运输集团有限公司陕县分公司",
+				"ntype": "f"
+			}
+		}, {
+			"id": "2321717752",
+			"labels": ["Company"],
+			"properties": {
+				"logo": "https://img.tianyancha.com/logo/lll/c1a4016c9f697e9f72cfbe86e23b7e70.png@!t07",
+				"aias": "鑫道汽车",
+				"name": "信阳鑫道汽车销售服务有限公司",
+				"ntype": "f"
+			}
+		}, {
+			"id": "2453196241",
+			"labels": ["Company"],
+			"properties": {
+				"logo": "https://img.tianyancha.com/logo/lll/6251b0a0e09c90ed5b3bcfebde92299f.png@!t07",
+				"aias": "运输公司",
+				"name": "郑州市上街区运输公司物资经销部",
+				"ntype": "f"
+			}
+		}, {
+			"id": "2982966369",
+			"labels": ["Company"],
+			"properties": {
+				"logo": "https://img.tianyancha.com/logo/lll/17ae2ef24f6145df08c7f35a916f8e0a.png@!t07",
+				"aias": "万里运输",
+				"name": "河南万里运输集团有限公司商丘万通分公司",
+				"ntype": "f"
+			}
+		}, {
+			"id": "2982966364",
+			"labels": ["Company"],
+			"properties": {
+				"logo": "https://img.tianyancha.com/logo/lll/7b0b1179731bf96f9cf1d265d728227f.png@!t07",
+				"aias": "万里运输",
+				"name": "河南万里运输集团有限公司商丘创兴分公司",
+				"ntype": "f"
+			}
+		}, {
+			"id": "2387189580",
+			"labels": ["Company"],
+			"properties": {
+				"logo": "https://img.tianyancha.com/logo/lll/cd09067bec7b675dbb84e457daf436e9.png@!t07",
+				"name": "河南万里运输集团有限公司汽车销售二分公司",
+				"ntype": "f"
+			}
+		}, {
+			"id": "3058159334",
+			"labels": ["Company"],
+			"properties": {
+				"logo": "https://img.tianyancha.com/logo/lll/fc4378090102780e169ff2b3718c9ca9.png@!t07",
+				"name": "河南大麦信息技术有限公司",
+				"ntype": "f"
+			}
+		}, {
+			"id": "2278614719",
+			"labels": ["Human"],
+			"properties": {
+				"name": "马宝琴",
+				"ntype": "s"
+			}
+		}, {
+			"id": "1984061813",
+			"labels": ["Human"],
+			"properties": {
+				"name": "李彬",
+				"ntype": "s"
+			}
+		}, {
+			"id": "2964787006",
+			"labels": ["Company"],
+			"properties": {
+				"logo": "https://img.tianyancha.com/logo/lll/8ecc2c1b043107c6e9e29b8e946b4b81.png@!t07",
+				"name": "河南万里运输集团有限公司郑州第四分公司",
+				"ntype": "f"
+			}
+		}, {
+			"id": "2082174294",
+			"labels": ["Human"],
+			"properties": {
+				"name": "田卫国",
+				"ntype": "s"
+			}
+		}, {
+			"id": "2340711801",
+			"labels": ["Human"],
+			"properties": {
+				"name": "李辉",
+				"ntype": "s"
+			}
+		}, {
+			"id": "2983898715",
+			"labels": ["Company"],
+			"properties": {
+				"logo": "https://img.tianyancha.com/logo/lll/6faf17bc0466c718c8c2b3f7c10d7a94.png@!t07",
+				"name": "河南万里运输集团有限公司兰考出租分公司",
+				"ntype": "f"
+			}
+		}, {
+			"id": "2067103389",
+			"labels": ["Human"],
+			"properties": {
+				"name": "王卫华",
+				"ntype": "s"
+			}
+		}, {
+			"id": "2897860028",
+			"labels": ["Company"],
+			"properties": {
+				"logo": "https://img.tianyancha.com/logo/lll/aeb8265be024d00e77e5eafb9536b08a.png@!t07",
+				"name": "许昌万里房地产开发有限公司",
+				"ntype": "f"
+			}
+		}, {
+			"id": "2454021573",
+			"labels": ["Company"],
+			"properties": {
+				"logo": "https://img.tianyancha.com/logo/lll/c0da44ca26f2704f9a2b084d577911e6.png@!t07",
+				"name": "河南万里运输集团有限公司平顶山货运分公司",
+				"ntype": "f"
+			}
+		}, {
+			"id": "2451984474",
+			"labels": ["Company"],
+			"properties": {
+				"logo": "https://img.tianyancha.com/logo/lll/c7b9fdfcacbd9f8369874647ec6112cd.png@!t07",
+				"name": "河南万里运输集团有限公司郑州物流第六分公司",
+				"ntype": "f"
+			}
+		}, {
+			"id": "2466287522",
+			"labels": ["Company"],
+			"properties": {
+				"logo": "https://img.tianyancha.com/logo/lll/a37d38b3a9cb246a4be6251538d5a148.png@!t07",
+				"name": "河南万里运输集团有限公司郑州物流第三分公司",
+				"ntype": "f"
+			}
+		}, {
+			"id": "2451889695",
+			"labels": ["Company"],
+			"properties": {
+				"logo": "https://img.tianyancha.com/logo/lll/0036c3ec53707e484ae8388339aae26a.png@!t07",
+				"name": "河南万里运输集团有限公司驻马店物流分公司",
+				"ntype": "f"
+			}
+		}, {
+			"id": "2964787054",
+			"labels": ["Company"],
+			"properties": {
+				"logo": "https://img.tianyancha.com/logo/lll/8bff1feb1c0efa3726edeedcb08ed1bd.png@!t07",
+				"name": "河南万里运输集团有限公司郑州第二分公司",
+				"ntype": "f"
+			}
+		}, {
+			"id": "2942745543",
+			"labels": ["Company"],
+			"properties": {
+				"logo": "https://img.tianyancha.com/logo/lll/914cc0f3a930c18c05192531e3ed5485.png@!t07",
+				"name": "河南万里运输集团有限公司许昌文峰路分公司",
+				"ntype": "f"
+			}
+		}, {
+			"id": "2316128959",
+			"labels": ["Company"],
+			"properties": {
+				"logo": "https://img.tianyancha.com/logo/lll/21644b74441bdb08b719d5f2b38d1502.png@!t07",
+				"name": "郑州多惠达科技有限公司",
+				"ntype": "f"
+			}
+		}],
+		"relationships": [{
+			"id": "625828169",
+			"startNode": "2007298304",
+			"properties": {
+				"labels": ["未知"]
+			},
+			"type": "SERVE",
+			"endNode": "1470932082"
+		}, {
+			"id": "71736387",
+			"startNode": "80037554",
+			"properties": {
+				"labels": ["分支机构"]
+			},
+			"type": "BRANCH",
+			"endNode": "2451887902"
+		}, {
+			"id": "274363475",
+			"startNode": "2067480152",
+			"properties": {
+				"labels": ["执行董事兼总经理"]
+			},
+			"type": "SERVE",
+			"endNode": "1748636033"
+		}, {
+			"id": "69682230",
+			"startNode": "80037554",
+			"properties": {
+				"labels": ["分支机构"]
+			},
+			"type": "BRANCH",
+			"endNode": "2335242403"
+		}, {
+			"id": "275935331",
+			"startNode": "2000492027",
+			"properties": {
+				"labels": ["执行董事"]
+			},
+			"type": "SERVE",
+			"endNode": "2346435823"
+		}, {
+			"id": "173732424",
+			"startNode": "2000492027",
+			"properties": {
+				"labels": ["法人"]
+			},
+			"type": "OWN",
+			"endNode": "2982966364"
+		}, {
+			"id": "173732425",
+			"startNode": "2303648396",
+			"properties": {
+				"labels": ["法人"]
+			},
+			"type": "OWN",
+			"endNode": "2982966369"
+		}, {
+			"id": "71736402",
+			"startNode": "80037554",
+			"properties": {
+				"labels": ["分支机构"]
+			},
+			"type": "BRANCH",
+			"endNode": "2377405894"
+		}, {
+			"id": "72406085",
+			"startNode": "80037554",
+			"properties": {
+				"labels": ["分支机构"]
+			},
+			"type": "BRANCH",
+			"endNode": "2453702241"
+		}, {
+			"id": "525275987",
+			"startNode": "2340711801",
+			"properties": {
+				"labels": ["参股"]
+			},
+			"type": "INVEST_H",
+			"endNode": "2345774454"
+		}, {
+			"id": "69623814",
+			"startNode": "80037554",
+			"properties": {
+				"labels": ["分支机构"]
+			},
+			"type": "BRANCH",
+			"endNode": "2332490986"
+		}, {
+			"id": "611947615",
+			"startNode": "1929585877",
+			"properties": {
+				"labels": ["法人"]
+			},
+			"type": "OWN",
+			"endNode": "2376418874"
+		}, {
+			"id": "592071520",
+			"startNode": "345575971",
+			"properties": {
+				"labels": ["参股"]
+			},
+			"type": "INVEST_C",
+			"endNode": "80037554"
+		}, {
+			"id": "560790848",
+			"startNode": "2067480152",
+			"properties": {
+				"labels": ["参股"]
+			},
+			"type": "INVEST_H",
+			"endNode": "3058159334"
+		}, {
+			"id": "275902531",
+			"startNode": "2340711801",
+			"properties": {
+				"labels": ["执行董事兼总经理"]
+			},
+			"type": "SERVE",
+			"endNode": "2345774454"
+		}, {
+			"id": "71736435",
+			"startNode": "80037554",
+			"properties": {
+				"labels": ["分支机构"]
+			},
+			"type": "BRANCH",
+			"endNode": "2376415881"
+		}, {
+			"id": "349264100",
+			"startNode": "1923247452",
+			"properties": {
+				"labels": ["监事"]
+			},
+			"type": "SERVE",
+			"endNode": "437395899"
+		}, {
+			"id": "70084719",
+			"startNode": "80037554",
+			"properties": {
+				"labels": ["分支机构"]
+			},
+			"type": "BRANCH",
+			"endNode": "2357441421"
+		}, {
+			"id": "163515901",
+			"startNode": "2340711801",
+			"properties": {
+				"labels": ["法人"]
+			},
+			"type": "OWN",
+			"endNode": "2414563008"
+		}, {
+			"id": "86401380",
+			"startNode": "1923247452",
+			"properties": {
+				"labels": ["法人"]
+			},
+			"type": "OWN",
+			"endNode": "638721835"
+		}, {
+			"id": "67729484",
+			"startNode": "80037554",
+			"properties": {
+				"labels": ["分支机构"]
+			},
+			"type": "BRANCH",
+			"endNode": "495102745"
+		}, {
+			"id": "67122245",
+			"startNode": "80037554",
+			"properties": {
+				"labels": ["分支机构"]
+			},
+			"type": "BRANCH",
+			"endNode": "79088083"
+		}, {
+			"id": "71736333",
+			"startNode": "80037554",
+			"properties": {
+				"labels": ["分支机构"]
+			},
+			"type": "BRANCH",
+			"endNode": "2452621231"
+		}, {
+			"id": "72566785",
+			"startNode": "80037554",
+			"properties": {
+				"labels": ["分支机构"]
+			},
+			"type": "BRANCH",
+			"endNode": "2964786784"
+		}, {
+			"id": "72566784",
+			"startNode": "80037554",
+			"properties": {
+				"labels": ["分支机构"]
+			},
+			"type": "BRANCH",
+			"endNode": "2964786783"
+		}, {
+			"id": "542547973",
+			"startNode": "1923247452",
+			"properties": {
+				"labels": ["参股"]
+			},
+			"type": "INVEST_H",
+			"endNode": "253639324"
+		}, {
+			"id": "584620673",
+			"startNode": "2192913037",
+			"properties": {
+				"labels": ["参股"]
+			},
+			"type": "INVEST_H",
+			"endNode": "457472219"
+		}, {
+			"id": "151994705",
+			"startNode": "2254804796",
+			"properties": {
+				"labels": ["法人"]
+			},
+			"type": "OWN",
+			"endNode": "2580211031"
+		}, {
+			"id": "67838058",
+			"startNode": "80037554",
+			"properties": {
+				"labels": ["分支机构"]
+			},
+			"type": "BRANCH",
+			"endNode": "574588491"
+		}, {
+			"id": "71724068",
+			"startNode": "80037554",
+			"properties": {
+				"labels": ["分支机构"]
+			},
+			"type": "BRANCH",
+			"endNode": "2451940645"
+		}, {
+			"id": "275955729",
+			"startNode": "1920877200",
+			"properties": {
+				"labels": ["执行董事"]
+			},
+			"type": "SERVE",
+			"endNode": "2366950078"
+		}, {
+			"id": "323085097",
+			"startNode": "1923247452",
+			"properties": {
+				"labels": ["监事"]
+			},
+			"type": "SERVE",
+			"endNode": "2319912799"
+		}, {
+			"id": "152174974",
+			"startNode": "1824348590",
+			"properties": {
+				"labels": ["法人"]
+			},
+			"type": "OWN",
+			"endNode": "2453196241"
+		}, {
+			"id": "594190087",
+			"startNode": "2031552028",
+			"properties": {
+				"labels": ["参股"]
+			},
+			"type": "INVEST_H",
+			"endNode": "904997713"
+		}, {
+			"id": "72566819",
+			"startNode": "80037554",
+			"properties": {
+				"labels": ["分支机构"]
+			},
+			"type": "BRANCH",
+			"endNode": "2964787054"
+		}, {
+			"id": "72566817",
+			"startNode": "80037554",
+			"properties": {
+				"labels": ["分支机构"]
+			},
+			"type": "BRANCH",
+			"endNode": "2964787006"
+		}, {
+			"id": "71736371",
+			"startNode": "80037554",
+			"properties": {
+				"labels": ["分支机构"]
+			},
+			"type": "BRANCH",
+			"endNode": "2452616518"
+		}, {
+			"id": "165085532",
+			"startNode": "2279104435",
+			"properties": {
+				"labels": ["法人"]
+			},
+			"type": "OWN",
+			"endNode": "2943371674"
+		}, {
+			"id": "67666052",
+			"startNode": "80037554",
+			"properties": {
+				"labels": ["分支机构"]
+			},
+			"type": "BRANCH",
+			"endNode": "448764181"
+		}, {
+			"id": "71448782",
+			"startNode": "904997930",
+			"properties": {
+				"labels": ["分支机构"]
+			},
+			"type": "BRANCH",
+			"endNode": "2453196217"
+		}, {
+			"id": "584159838",
+			"startNode": "2135310459",
+			"properties": {
+				"labels": ["参股"]
+			},
+			"type": "INVEST_H",
+			"endNode": "436316505"
+		}, {
+			"id": "71739604",
+			"startNode": "80037554",
+			"properties": {
+				"labels": ["分支机构"]
+			},
+			"type": "BRANCH",
+			"endNode": "2451880381"
+		}, {
+			"id": "592071644",
+			"startNode": "904997780",
+			"properties": {
+				"labels": ["参股"]
+			},
+			"type": "INVEST_C",
+			"endNode": "80037554"
+		}, {
+			"id": "565632288",
+			"startNode": "2350592767",
+			"properties": {
+				"labels": ["参股"]
+			},
+			"type": "INVEST_C",
+			"endNode": "3112832262"
+		}, {
+			"id": "349311054",
+			"startNode": "1923247452",
+			"properties": {
+				"labels": ["执行董事"]
+			},
+			"type": "SERVE",
+			"endNode": "890640933"
+		}, {
+			"id": "82751566",
+			"startNode": "1853411726",
+			"properties": {
+				"labels": ["法人"]
+			},
+			"type": "OWN",
+			"endNode": "437397121"
+		}, {
+			"id": "152255920",
+			"startNode": "2082174294",
+			"properties": {
+				"labels": ["法人"]
+			},
+			"type": "OWN",
+			"endNode": "2454867594"
+		}, {
+			"id": "361447726",
+			"startNode": "1923247452",
+			"properties": {
+				"labels": ["执行董事兼总经理"]
+			},
+			"type": "SERVE",
+			"endNode": "1144183053"
+		}, {
+			"id": "511922724",
+			"startNode": "2286447163",
+			"properties": {
+				"labels": ["参股"]
+			},
+			"type": "INVEST_H",
+			"endNode": "2310777879"
+		}, {
+			"id": "274881744",
+			"startNode": "2135310459",
+			"properties": {
+				"labels": ["监事"]
+			},
+			"type": "SERVE",
+			"endNode": "2321717752"
+		}, {
+			"id": "317136467",
+			"startNode": "2135310459",
+			"properties": {
+				"labels": ["监事"]
+			},
+			"type": "SERVE",
+			"endNode": "2343118843"
+		}, {
+			"id": "588288978",
+			"startNode": "607690153",
+			"properties": {
+				"labels": ["参股"]
+			},
+			"type": "INVEST_C",
+			"endNode": "638721835"
+		}, {
+			"id": "71736451",
+			"startNode": "80037554",
+			"properties": {
+				"labels": ["分支机构"]
+			},
+			"type": "BRANCH",
+			"endNode": "2376415842"
+		}, {
+			"id": "71736463",
+			"startNode": "80037554",
+			"properties": {
+				"labels": ["分支机构"]
+			},
+			"type": "BRANCH",
+			"endNode": "2376415795"
+		}, {
+			"id": "349120512",
+			"startNode": "1853411726",
+			"properties": {
+				"labels": ["执行董事兼总经理"]
+			},
+			"type": "SERVE",
+			"endNode": "1621564672"
+		}, {
+			"id": "524239854",
+			"startNode": "2135310459",
+			"properties": {
+				"labels": ["参股"]
+			},
+			"type": "INVEST_H",
+			"endNode": "2343118843"
+		}, {
+			"id": "68319429",
+			"startNode": "80037554",
+			"properties": {
+				"labels": ["分支机构"]
+			},
+			"type": "BRANCH",
+			"endNode": "902464424"
+		}, {
+			"id": "594031496",
+			"startNode": "32652690",
+			"properties": {
+				"labels": ["参股"]
+			},
+			"type": "INVEST_C",
+			"endNode": "889096824"
+		}, {
+			"id": "71736480",
+			"startNode": "80037554",
+			"properties": {
+				"labels": ["分支机构"]
+			},
+			"type": "BRANCH",
+			"endNode": "2584041622"
+		}, {
+			"id": "152255995",
+			"startNode": "2289846230",
+			"properties": {
+				"labels": ["法人"]
+			},
+			"type": "OWN",
+			"endNode": "2451882957"
+		}, {
+			"id": "67884261",
+			"startNode": "80037554",
+			"properties": {
+				"labels": ["分支机构"]
+			},
+			"type": "BRANCH",
+			"endNode": "609378482"
+		}, {
+			"id": "348764221",
+			"startNode": "1853411726",
+			"properties": {
+				"labels": ["执行董事兼总经理"]
+			},
+			"type": "SERVE",
+			"endNode": "32652690"
+		}, {
+			"id": "348764220",
+			"startNode": "2254804796",
+			"properties": {
+				"labels": ["监事"]
+			},
+			"type": "SERVE",
+			"endNode": "32652690"
+		}, {
+			"id": "592147379",
+			"startNode": "2254804796",
+			"properties": {
+				"labels": ["参股"]
+			},
+			"type": "INVEST_H",
+			"endNode": "80198250"
+		}, {
+			"id": "69930197",
+			"startNode": "80037554",
+			"properties": {
+				"labels": ["分支机构"]
+			},
+			"type": "BRANCH",
+			"endNode": "2344608951"
+		}, {
+			"id": "71739719",
+			"startNode": "80037554",
+			"properties": {
+				"labels": ["分支机构"]
+			},
+			"type": "BRANCH",
+			"endNode": "2451882957"
+		}, {
+			"id": "314665920",
+			"startNode": "2067480152",
+			"properties": {
+				"labels": ["执行董事"]
+			},
+			"type": "SERVE",
+			"endNode": "1455130867"
+		}, {
+			"id": "71736645",
+			"startNode": "80037554",
+			"properties": {
+				"labels": ["分支机构"]
+			},
+			"type": "BRANCH",
+			"endNode": "2451889695"
+		}, {
+			"id": "506784567",
+			"startNode": "2007298304",
+			"properties": {
+				"labels": ["参股"]
+			},
+			"type": "INVEST_H",
+			"endNode": "1470932082"
+		}, {
+			"id": "183591922",
+			"startNode": "2340711801",
+			"properties": {
+				"labels": ["法人"]
+			},
+			"type": "OWN",
+			"endNode": "3036079685"
+		}, {
+			"id": "558573645",
+			"startNode": "2340711801",
+			"properties": {
+				"labels": ["参股"]
+			},
+			"type": "INVEST_H",
+			"endNode": "3036079685"
+		}, {
+			"id": "178282410",
+			"startNode": "1853411726",
+			"properties": {
+				"labels": ["执行董事兼总经理"]
+			},
+			"type": "SERVE",
+			"endNode": "437397121"
+		}, {
+			"id": "581734311",
+			"startNode": "80037554",
+			"properties": {
+				"labels": ["参股"]
+			},
+			"type": "INVEST_C",
+			"endNode": "34347778"
+		}, {
+			"id": "163187893",
+			"startNode": "2281354710",
+			"properties": {
+				"labels": ["法人"]
+			},
+			"type": "OWN",
+			"endNode": "2454021573"
+		}, {
+			"id": "71365979",
+			"startNode": "80037554",
+			"properties": {
+				"labels": ["分支机构"]
+			},
+			"type": "BRANCH",
+			"endNode": "2388212815"
+		}, {
+			"id": "526330476",
+			"startNode": "2067103389",
+			"properties": {
+				"labels": ["监事"]
+			},
+			"type": "SERVE",
+			"endNode": "3042303437"
+		}, {
+			"id": "70563081",
+			"startNode": "80037554",
+			"properties": {
+				"labels": ["分支机构"]
+			},
+			"type": "BRANCH",
+			"endNode": "2410461606"
+		}, {
+			"id": "71736697",
+			"startNode": "80037554",
+			"properties": {
+				"labels": ["分支机构"]
+			},
+			"type": "BRANCH",
+			"endNode": "2451891227"
+		}, {
+			"id": "104685436",
+			"startNode": "1853411726",
+			"properties": {
+				"labels": ["法人"]
+			},
+			"type": "OWN",
+			"endNode": "1621564672"
+		}, {
+			"id": "515561468",
+			"startNode": "345575971",
+			"properties": {
+				"labels": ["参股"]
+			},
+			"type": "INVEST_C",
+			"endNode": "2319467090"
+		}, {
+			"id": "71739663",
+			"startNode": "80037554",
+			"properties": {
+				"labels": ["分支机构"]
+			},
+			"type": "BRANCH",
+			"endNode": "2376418874"
+		}, {
+			"id": "71661841",
+			"startNode": "80037554",
+			"properties": {
+				"labels": ["分支机构"]
+			},
+			"type": "BRANCH",
+			"endNode": "2580211031"
+		}, {
+			"id": "273919237",
+			"startNode": "2192913037",
+			"properties": {
+				"labels": ["执行董事"]
+			},
+			"type": "SERVE",
+			"endNode": "457472219"
+		}, {
+			"id": "68300107",
+			"startNode": "80037554",
+			"properties": {
+				"labels": ["分支机构"]
+			},
+			"type": "BRANCH",
+			"endNode": "889096871"
+		}, {
+			"id": "68300108",
+			"startNode": "80037554",
+			"properties": {
+				"labels": ["分支机构"]
+			},
+			"type": "BRANCH",
+			"endNode": "889097164"
+		}, {
+			"id": "72224047",
+			"startNode": "80037554",
+			"properties": {
+				"labels": ["分支机构"]
+			},
+			"type": "BRANCH",
+			"endNode": "2452515374"
+		}, {
+			"id": "525604412",
+			"startNode": "80037554",
+			"properties": {
+				"labels": ["参股"]
+			},
+			"type": "INVEST_C",
+			"endNode": "2346435823"
+		}, {
+			"id": "70020421",
+			"startNode": "80037554",
+			"properties": {
+				"labels": ["分支机构"]
+			},
+			"type": "BRANCH",
+			"endNode": "2345057924"
+		}, {
+			"id": "163873965",
+			"startNode": "2231817975",
+			"properties": {
+				"labels": ["法人"]
+			},
+			"type": "OWN",
+			"endNode": "2453702241"
+		}, {
+			"id": "71739693",
+			"startNode": "80037554",
+			"properties": {
+				"labels": ["分支机构"]
+			},
+			"type": "BRANCH",
+			"endNode": "2454867594"
+		}, {
+			"id": "346406345",
+			"startNode": "2340711801",
+			"properties": {
+				"labels": ["执行董事"]
+			},
+			"type": "SERVE",
+			"endNode": "2350592767"
+		}, {
+			"id": "72501564",
+			"startNode": "80037554",
+			"properties": {
+				"labels": ["分支机构"]
+			},
+			"type": "BRANCH",
+			"endNode": "2943371674"
+		}, {
+			"id": "280956363",
+			"startNode": "1923247452",
+			"properties": {
+				"labels": ["执行董事"]
+			},
+			"type": "SERVE",
+			"endNode": "607689214"
+		}, {
+			"id": "502067353",
+			"startNode": "890640933",
+			"properties": {
+				"labels": ["参股"]
+			},
+			"type": "INVEST_C",
+			"endNode": "1144183053"
+		}, {
+			"id": "91319303",
+			"startNode": "2082174294",
+			"properties": {
+				"labels": ["法人"]
+			},
+			"type": "OWN",
+			"endNode": "905004396"
+		}, {
+			"id": "578501388",
+			"startNode": "1923247452",
+			"properties": {
+				"labels": ["参股"]
+			},
+			"type": "INVEST_H",
+			"endNode": "32652690"
+		}, {
+			"id": "274624802",
+			"startNode": "2254804796",
+			"properties": {
+				"labels": ["执行董事兼总经理"]
+			},
+			"type": "SERVE",
+			"endNode": "2315978847"
+		}, {
+			"id": "274624803",
+			"startNode": "1923247452",
+			"properties": {
+				"labels": ["监事"]
+			},
+			"type": "SERVE",
+			"endNode": "2315978847"
+		}, {
+			"id": "71710008",
+			"startNode": "80037554",
+			"properties": {
+				"labels": ["分支机构"]
+			},
+			"type": "BRANCH",
+			"endNode": "2451984474"
+		}, {
+			"id": "69975381",
+			"startNode": "80037554",
+			"properties": {
+				"labels": ["分支机构"]
+			},
+			"type": "BRANCH",
+			"endNode": "2346517454"
+		}, {
+			"id": "71736775",
+			"startNode": "80037554",
+			"properties": {
+				"labels": ["分支机构"]
+			},
+			"type": "BRANCH",
+			"endNode": "2451888957"
+		}, {
+			"id": "68787612",
+			"startNode": "80037554",
+			"properties": {
+				"labels": ["分支机构"]
+			},
+			"type": "BRANCH",
+			"endNode": "1458054284"
+		}, {
+			"id": "166560874",
+			"startNode": "2254804796",
+			"properties": {
+				"labels": ["法人"]
+			},
+			"type": "OWN",
+			"endNode": "2964787054"
+		}, {
+			"id": "71710157",
+			"startNode": "80037554",
+			"properties": {
+				"labels": ["分支机构"]
+			},
+			"type": "BRANCH",
+			"endNode": "2451986067"
+		}, {
+			"id": "146608424",
+			"startNode": "1920877200",
+			"properties": {
+				"labels": ["法人"]
+			},
+			"type": "OWN",
+			"endNode": "2366950078"
+		}, {
+			"id": "136092043",
+			"startNode": "2067103389",
+			"properties": {
+				"labels": ["法人"]
+			},
+			"type": "OWN",
+			"endNode": "3306268999"
+		}, {
+			"id": "263683616",
+			"startNode": "2254804796",
+			"properties": {
+				"labels": ["总经理"]
+			},
+			"type": "SERVE",
+			"endNode": "2580211031"
+		}, {
+			"id": "160442375",
+			"startNode": "2071262540",
+			"properties": {
+				"labels": ["法人"]
+			},
+			"type": "OWN",
+			"endNode": "2451833916"
+		}, {
+			"id": "72467919",
+			"startNode": "80037554",
+			"properties": {
+				"labels": ["分支机构"]
+			},
+			"type": "BRANCH",
+			"endNode": "2943378765"
+		}, {
+			"id": "68039084",
+			"startNode": "80037554",
+			"properties": {
+				"labels": ["分支机构"]
+			},
+			"type": "BRANCH",
+			"endNode": "742757438"
+		}, {
+			"id": "584186745",
+			"startNode": "1923247452",
+			"properties": {
+				"labels": ["参股"]
+			},
+			"type": "INVEST_H",
+			"endNode": "437395899"
+		}, {
+			"id": "514125582",
+			"startNode": "1923247452",
+			"properties": {
+				"labels": ["参股"]
+			},
+			"type": "INVEST_H",
+			"endNode": "2316128959"
+		}, {
+			"id": "590026368",
+			"startNode": "80037554",
+			"properties": {
+				"labels": ["参股"]
+			},
+			"type": "INVEST_C",
+			"endNode": "734986690"
+		}, {
+			"id": "68080034",
+			"startNode": "80037554",
+			"properties": {
+				"labels": ["分支机构"]
+			},
+			"type": "BRANCH",
+			"endNode": "760485251"
+		}, {
+			"id": "71711208",
+			"startNode": "80037554",
+			"properties": {
+				"labels": ["分支机构"]
+			},
+			"type": "BRANCH",
+			"endNode": "2451978850"
+		}, {
+			"id": "166560860",
+			"startNode": "1820127805",
+			"properties": {
+				"labels": ["法人"]
+			},
+			"type": "OWN",
+			"endNode": "2964787006"
+		}, {
+			"id": "173729774",
+			"startNode": "2065474443",
+			"properties": {
+				"labels": ["法人"]
+			},
+			"type": "OWN",
+			"endNode": "2982957307"
+		}, {
+			"id": "173729775",
+			"startNode": "1926731633",
+			"properties": {
+				"labels": ["法人"]
+			},
+			"type": "OWN",
+			"endNode": "2982957311"
+		}, {
+			"id": "152255653",
+			"startNode": "2278614719",
+			"properties": {
+				"labels": ["法人"]
+			},
+			"type": "OWN",
+			"endNode": "2451880381"
+		}, {
+			"id": "592147184",
+			"startNode": "2340711801",
+			"properties": {
+				"labels": ["参股"]
+			},
+			"type": "INVEST_H",
+			"endNode": "80198250"
+		}, {
+			"id": "71711226",
+			"startNode": "80037554",
+			"properties": {
+				"labels": ["分支机构"]
+			},
+			"type": "BRANCH",
+			"endNode": "2452789459"
+		}, {
+			"id": "349447531",
+			"startNode": "2286447163",
+			"properties": {
+				"labels": ["监事"]
+			},
+			"type": "SERVE",
+			"endNode": "2319467090"
+		}, {
+			"id": "514049888",
+			"startNode": "1923247452",
+			"properties": {
+				"labels": ["参股"]
+			},
+			"type": "INVEST_H",
+			"endNode": "2315978847"
+		}, {
+			"id": "514125665",
+			"startNode": "2254804796",
+			"properties": {
+				"labels": ["参股"]
+			},
+			"type": "INVEST_H",
+			"endNode": "2316128959"
+		}, {
+			"id": "514049893",
+			"startNode": "2254804796",
+			"properties": {
+				"labels": ["参股"]
+			},
+			"type": "INVEST_H",
+			"endNode": "2315978847"
+		}, {
+			"id": "593344154",
+			"startNode": "1824348590",
+			"properties": {
+				"labels": ["参股"]
+			},
+			"type": "INVEST_H",
+			"endNode": "851146693"
+		}, {
+			"id": "481426787",
+			"startNode": "2067103389",
+			"properties": {
+				"labels": ["董事"]
+			},
+			"type": "SERVE",
+			"endNode": "80037554"
+		}, {
+			"id": "592121496",
+			"startNode": "1920877200",
+			"properties": {
+				"labels": ["参股"]
+			},
+			"type": "INVEST_H",
+			"endNode": "80198250"
+		}, {
+			"id": "584186634",
+			"startNode": "32652690",
+			"properties": {
+				"labels": ["参股"]
+			},
+			"type": "INVEST_C",
+			"endNode": "437397121"
+		}, {
+			"id": "356370656",
+			"startNode": "2082174294",
+			"properties": {
+				"labels": ["负责人"]
+			},
+			"type": "SERVE",
+			"endNode": "905004396"
+		}, {
+			"id": "276735380",
+			"startNode": "1923247452",
+			"properties": {
+				"labels": ["执行董事兼总经理"]
+			},
+			"type": "SERVE",
+			"endNode": "2451977975"
+		}, {
+			"id": "166560797",
+			"startNode": "1926731633",
+			"properties": {
+				"labels": ["法人"]
+			},
+			"type": "OWN",
+			"endNode": "2964786783"
+		}, {
+			"id": "515632963",
+			"startNode": "80037554",
+			"properties": {
+				"labels": ["参股"]
+			},
+			"type": "INVEST_C",
+			"endNode": "2319679384"
+		}, {
+			"id": "85844199",
+			"startNode": "1923247452",
+			"properties": {
+				"labels": ["法人"]
+			},
+			"type": "OWN",
+			"endNode": "607690153"
+		}, {
+			"id": "69952980",
+			"startNode": "80037554",
+			"properties": {
+				"labels": ["分支机构"]
+			},
+			"type": "BRANCH",
+			"endNode": "2346310786"
+		}, {
+			"id": "509343652",
+			"startNode": "2067480152",
+			"properties": {
+				"labels": ["参股"]
+			},
+			"type": "INVEST_H",
+			"endNode": "1670763333"
+		}, {
+			"id": "91319153",
+			"startNode": "2192913037",
+			"properties": {
+				"labels": ["法人"]
+			},
+			"type": "OWN",
+			"endNode": "904996181"
+		}, {
+			"id": "515716287",
+			"startNode": "1923247452",
+			"properties": {
+				"labels": ["参股"]
+			},
+			"type": "INVEST_H",
+			"endNode": "2319912799"
+		}, {
+			"id": "166560750",
+			"startNode": "2202564191",
+			"properties": {
+				"labels": ["法人"]
+			},
+			"type": "OWN",
+			"endNode": "2964786607"
+		}, {
+			"id": "91319159",
+			"startNode": "1853411726",
+			"properties": {
+				"labels": ["法人"]
+			},
+			"type": "OWN",
+			"endNode": "904996990"
+		}, {
+			"id": "76153485",
+			"startNode": "1853411726",
+			"properties": {
+				"labels": ["法人"]
+			},
+			"type": "OWN",
+			"endNode": "80037554"
+		}, {
+			"id": "71714380",
+			"startNode": "80037554",
+			"properties": {
+				"labels": ["分支机构"]
+			},
+			"type": "BRANCH",
+			"endNode": "2466287522"
+		}, {
+			"id": "172641374",
+			"startNode": "2983898780",
+			"properties": {
+				"labels": ["法人"]
+			},
+			"type": "OWN",
+			"endNode": "2983898777"
+		}, {
+			"id": "172641360",
+			"startNode": "2303648396",
+			"properties": {
+				"labels": ["法人"]
+			},
+			"type": "OWN",
+			"endNode": "2982966340"
+		}, {
+			"id": "69969460",
+			"startNode": "80037554",
+			"properties": {
+				"labels": ["分支机构"]
+			},
+			"type": "BRANCH",
+			"endNode": "2346459408"
+		}, {
+			"id": "68323853",
+			"startNode": "80037554",
+			"properties": {
+				"labels": ["分支机构"]
+			},
+			"type": "BRANCH",
+			"endNode": "906143849"
+		}, {
+			"id": "152248116",
+			"startNode": "2200129381",
+			"properties": {
+				"labels": ["法人"]
+			},
+			"type": "OWN",
+			"endNode": "2451887240"
+		}, {
+			"id": "540613142",
+			"startNode": "607690153",
+			"properties": {
+				"labels": ["参股"]
+			},
+			"type": "INVEST_C",
+			"endNode": "2451977975"
+		}, {
+			"id": "172641402",
+			"startNode": "1982985510",
+			"properties": {
+				"labels": ["法人"]
+			},
+			"type": "OWN",
+			"endNode": "2982966347"
+		}, {
+			"id": "172641407",
+			"startNode": "2015036041",
+			"properties": {
+				"labels": ["法人"]
+			},
+			"type": "OWN",
+			"endNode": "2982966349"
+		}, {
+			"id": "172641392",
+			"startNode": "1981567036",
+			"properties": {
+				"labels": ["法人"]
+			},
+			"type": "OWN",
+			"endNode": "2982966353"
+		}, {
+			"id": "71326332",
+			"startNode": "80037554",
+			"properties": {
+				"labels": ["分支机构"]
+			},
+			"type": "BRANCH",
+			"endNode": "2387189580"
+		}, {
+			"id": "71711238",
+			"startNode": "80037554",
+			"properties": {
+				"labels": ["分支机构"]
+			},
+			"type": "BRANCH",
+			"endNode": "2452787996"
+		}, {
+			"id": "152163152",
+			"startNode": "1923247452",
+			"properties": {
+				"labels": ["法人"]
+			},
+			"type": "OWN",
+			"endNode": "2451977975"
+		}, {
+			"id": "133471670",
+			"startNode": "2254804796",
+			"properties": {
+				"labels": ["法人"]
+			},
+			"type": "OWN",
+			"endNode": "2346310786"
+		}, {
+			"id": "161084379",
+			"startNode": "1812158328",
+			"properties": {
+				"labels": ["法人"]
+			},
+			"type": "OWN",
+			"endNode": "2452515374"
+		}, {
+			"id": "101891164",
+			"startNode": "1853411726",
+			"properties": {
+				"labels": ["法人"]
+			},
+			"type": "OWN",
+			"endNode": "1472461612"
+		}, {
+			"id": "279719676",
+			"startNode": "2067480152",
+			"properties": {
+				"labels": ["监事"]
+			},
+			"type": "SERVE",
+			"endNode": "3058159334"
+		}, {
+			"id": "164957067",
+			"startNode": "1984061813",
+			"properties": {
+				"labels": ["法人"]
+			},
+			"type": "OWN",
+			"endNode": "2943378765"
+		}, {
+			"id": "516954290",
+			"startNode": "436316505",
+			"properties": {
+				"labels": ["参股"]
+			},
+			"type": "INVEST_C",
+			"endNode": "2321717752"
+		}, {
+			"id": "592120111",
+			"startNode": "1926731633",
+			"properties": {
+				"labels": ["参股"]
+			},
+			"type": "INVEST_H",
+			"endNode": "80198250"
+		}, {
+			"id": "584187060",
+			"startNode": "437397121",
+			"properties": {
+				"labels": ["参股"]
+			},
+			"type": "INVEST_C",
+			"endNode": "437395899"
+		}, {
+			"id": "71736864",
+			"startNode": "80037554",
+			"properties": {
+				"labels": ["分支机构"]
+			},
+			"type": "BRANCH",
+			"endNode": "2451887240"
+		}, {
+			"id": "71714351",
+			"startNode": "904997930",
+			"properties": {
+				"labels": ["分支机构"]
+			},
+			"type": "BRANCH",
+			"endNode": "2453196241"
+		}, {
+			"id": "535835034",
+			"startNode": "1920877200",
+			"properties": {
+				"labels": ["参股"]
+			},
+			"type": "INVEST_H",
+			"endNode": "2366950078"
+		}, {
+			"id": "67549810",
+			"startNode": "80037554",
+			"properties": {
+				"labels": ["分支机构"]
+			},
+			"type": "BRANCH",
+			"endNode": "378974131"
+		}, {
+			"id": "583877709",
+			"startNode": "80037554",
+			"properties": {
+				"labels": ["参股"]
+			},
+			"type": "INVEST_C",
+			"endNode": "424703129"
+		}, {
+			"id": "506578097",
+			"startNode": "2067480152",
+			"properties": {
+				"labels": ["参股"]
+			},
+			"type": "INVEST_H",
+			"endNode": "1455130867"
+		}, {
+			"id": "68648597",
+			"startNode": "80037554",
+			"properties": {
+				"labels": ["分支机构"]
+			},
+			"type": "BRANCH",
+			"endNode": "1275023842"
+		}, {
+			"id": "68150918",
+			"startNode": "80037554",
+			"properties": {
+				"labels": ["分支机构"]
+			},
+			"type": "BRANCH",
+			"endNode": "794123340"
+		}, {
+			"id": "68150913",
+			"startNode": "80037554",
+			"properties": {
+				"labels": ["分支机构"]
+			},
+			"type": "BRANCH",
+			"endNode": "794121829"
+		}, {
+			"id": "223956943",
+			"startNode": "1929585877",
+			"properties": {
+				"labels": ["法人"]
+			},
+			"type": "OWN",
+			"endNode": "2964786784"
+		}, {
+			"id": "592072157",
+			"startNode": "457472219",
+			"properties": {
+				"labels": ["参股"]
+			},
+			"type": "INVEST_C",
+			"endNode": "80037554"
+		}, {
+			"id": "312801341",
+			"startNode": "1923247452",
+			"properties": {
+				"labels": ["未知"]
+			},
+			"type": "SERVE",
+			"endNode": "607690153"
+		}, {
+			"id": "350896759",
+			"startNode": "2067480152",
+			"properties": {
+				"labels": ["监事"]
+			},
+			"type": "SERVE",
+			"endNode": "1670763333"
+		}, {
+			"id": "277208602",
+			"startNode": "1923247452",
+			"properties": {
+				"labels": ["执行董事兼总经理"]
+			},
+			"type": "SERVE",
+			"endNode": "2897860028"
+		}, {
+			"id": "150819412",
+			"startNode": "1824348590",
+			"properties": {
+				"labels": ["法人"]
+			},
+			"type": "OWN",
+			"endNode": "2453196217"
+		}, {
+			"id": "70525592",
+			"startNode": "80037554",
+			"properties": {
+				"labels": ["分支机构"]
+			},
+			"type": "BRANCH",
+			"endNode": "2942745543"
+		}, {
+			"id": "273956581",
+			"startNode": "1923247452",
+			"properties": {
+				"labels": ["监事"]
+			},
+			"type": "SERVE",
+			"endNode": "727069913"
+		}, {
+			"id": "592121337",
+			"startNode": "1923247452",
+			"properties": {
+				"labels": ["参股"]
+			},
+			"type": "INVEST_H",
+			"endNode": "80198250"
+		}, {
+			"id": "349312528",
+			"startNode": "1853411726",
+			"properties": {
+				"labels": ["董事长"]
+			},
+			"type": "SERVE",
+			"endNode": "80037554"
+		}, {
+			"id": "349312529",
+			"startNode": "1785351295",
+			"properties": {
+				"labels": ["监事"]
+			},
+			"type": "SERVE",
+			"endNode": "80037554"
+		}, {
+			"id": "349312518",
+			"startNode": "2135310459",
+			"properties": {
+				"labels": ["监事"]
+			},
+			"type": "SERVE",
+			"endNode": "80037554"
+		}, {
+			"id": "349312522",
+			"startNode": "1923247452",
+			"properties": {
+				"labels": ["董事"]
+			},
+			"type": "SERVE",
+			"endNode": "80037554"
+		}, {
+			"id": "349312523",
+			"startNode": "2340711801",
+			"properties": {
+				"labels": ["董事"]
+			},
+			"type": "SERVE",
+			"endNode": "80037554"
+		}, {
+			"id": "349312520",
+			"startNode": "2031552028",
+			"properties": {
+				"labels": ["监事"]
+			},
+			"type": "SERVE",
+			"endNode": "80037554"
+		}, {
+			"id": "349312521",
+			"startNode": "2286447163",
+			"properties": {
+				"labels": ["董事"]
+			},
+			"type": "SERVE",
+			"endNode": "80037554"
+		}, {
+			"id": "349312526",
+			"startNode": "1824348590",
+			"properties": {
+				"labels": ["董事"]
+			},
+			"type": "SERVE",
+			"endNode": "80037554"
+		}, {
+			"id": "594070964",
+			"startNode": "437397121",
+			"properties": {
+				"labels": ["参股"]
+			},
+			"type": "INVEST_C",
+			"endNode": "890640933"
+		}, {
+			"id": "524583321",
+			"startNode": "80037554",
+			"properties": {
+				"labels": ["参股"]
+			},
+			"type": "INVEST_C",
+			"endNode": "2344079841"
+		}, {
+			"id": "349312527",
+			"startNode": "1920877200",
+			"properties": {
+				"labels": ["董事兼总经理"]
+			},
+			"type": "SERVE",
+			"endNode": "80037554"
+		}, {
+			"id": "349312524",
+			"startNode": "2067480152",
+			"properties": {
+				"labels": ["董事"]
+			},
+			"type": "SERVE",
+			"endNode": "80037554"
+		}, {
+			"id": "349312525",
+			"startNode": "2007298304",
+			"properties": {
+				"labels": ["董事"]
+			},
+			"type": "SERVE",
+			"endNode": "80037554"
+		}, {
+			"id": "523002318",
+			"startNode": "80037554",
+			"properties": {
+				"labels": ["参股"]
+			},
+			"type": "INVEST_C",
+			"endNode": "2339516949"
+		}, {
+			"id": "307387568",
+			"startNode": "2340711801",
+			"properties": {
+				"labels": ["执行董事"]
+			},
+			"type": "SERVE",
+			"endNode": "3036079685"
+		}, {
+			"id": "91319188",
+			"startNode": "1923247452",
+			"properties": {
+				"labels": ["法人"]
+			},
+			"type": "OWN",
+			"endNode": "904998497"
+		}, {
+			"id": "594190727",
+			"startNode": "436316505",
+			"properties": {
+				"labels": ["参股"]
+			},
+			"type": "INVEST_C",
+			"endNode": "904997713"
+		}, {
+			"id": "91319171",
+			"startNode": "2082174294",
+			"properties": {
+				"labels": ["法人"]
+			},
+			"type": "OWN",
+			"endNode": "904997654"
+		}, {
+			"id": "72353444",
+			"startNode": "80037554",
+			"properties": {
+				"labels": ["分支机构"]
+			},
+			"type": "BRANCH",
+			"endNode": "2454021573"
+		}, {
+			"id": "71720627",
+			"startNode": "80037554",
+			"properties": {
+				"labels": ["分支机构"]
+			},
+			"type": "BRANCH",
+			"endNode": "2454883702"
+		}, {
+			"id": "68379366",
+			"startNode": "80037554",
+			"properties": {
+				"labels": ["分支机构"]
+			},
+			"type": "BRANCH",
+			"endNode": "954948294"
+		}, {
+			"id": "91319174",
+			"startNode": "1853411726",
+			"properties": {
+				"labels": ["法人"]
+			},
+			"type": "OWN",
+			"endNode": "904997780"
+		}, {
+			"id": "68379375",
+			"startNode": "80037554",
+			"properties": {
+				"labels": ["分支机构"]
+			},
+			"type": "BRANCH",
+			"endNode": "954955443"
+		}, {
+			"id": "172641462",
+			"startNode": "1983071842",
+			"properties": {
+				"labels": ["法人"]
+			},
+			"type": "OWN",
+			"endNode": "2995691518"
+		}, {
+			"id": "133649674",
+			"startNode": "2000492027",
+			"properties": {
+				"labels": ["法人"]
+			},
+			"type": "OWN",
+			"endNode": "2346435823"
+		}, {
+			"id": "592071753",
+			"startNode": "904997713",
+			"properties": {
+				"labels": ["参股"]
+			},
+			"type": "INVEST_C",
+			"endNode": "80037554"
+		}, {
+			"id": "72793950",
+			"startNode": "80037554",
+			"properties": {
+				"labels": ["分支机构"]
+			},
+			"type": "BRANCH",
+			"endNode": "2995691162"
+		}, {
+			"id": "72793951",
+			"startNode": "80037554",
+			"properties": {
+				"labels": ["分支机构"]
+			},
+			"type": "BRANCH",
+			"endNode": "2995691166"
+		}, {
+			"id": "72793948",
+			"startNode": "80037554",
+			"properties": {
+				"labels": ["分支机构"]
+			},
+			"type": "BRANCH",
+			"endNode": "2995691159"
+		}, {
+			"id": "72793949",
+			"startNode": "80037554",
+			"properties": {
+				"labels": ["分支机构"]
+			},
+			"type": "BRANCH",
+			"endNode": "2995691160"
+		}, {
+			"id": "72793946",
+			"startNode": "80037554",
+			"properties": {
+				"labels": ["分支机构"]
+			},
+			"type": "BRANCH",
+			"endNode": "2995691153"
+		}, {
+			"id": "173544788",
+			"startNode": "2192913037",
+			"properties": {
+				"labels": ["法人"]
+			},
+			"type": "OWN",
+			"endNode": "2983898715"
+		}, {
+			"id": "72793947",
+			"startNode": "80037554",
+			"properties": {
+				"labels": ["分支机构"]
+			},
+			"type": "BRANCH",
+			"endNode": "2995691155"
+		}, {
+			"id": "72793944",
+			"startNode": "80037554",
+			"properties": {
+				"labels": ["分支机构"]
+			},
+			"type": "BRANCH",
+			"endNode": "2995691150"
+		}, {
+			"id": "72793945",
+			"startNode": "80037554",
+			"properties": {
+				"labels": ["分支机构"]
+			},
+			"type": "BRANCH",
+			"endNode": "2995691151"
+		}, {
+			"id": "318644714",
+			"startNode": "2135310459",
+			"properties": {
+				"labels": ["董事兼总经理"]
+			},
+			"type": "SERVE",
+			"endNode": "436316505"
+		}, {
+			"id": "111993268",
+			"startNode": "2254804796",
+			"properties": {
+				"labels": ["法人"]
+			},
+			"type": "OWN",
+			"endNode": "2315978847"
+		}, {
+			"id": "83125230",
+			"startNode": "2192913037",
+			"properties": {
+				"labels": ["法人"]
+			},
+			"type": "OWN",
+			"endNode": "457472219"
+		}, {
+			"id": "72793975",
+			"startNode": "80037554",
+			"properties": {
+				"labels": ["分支机构"]
+			},
+			"type": "BRANCH",
+			"endNode": "2983898777"
+		}, {
+			"id": "594189384",
+			"startNode": "607690153",
+			"properties": {
+				"labels": ["参股"]
+			},
+			"type": "INVEST_C",
+			"endNode": "904997780"
+		}, {
+			"id": "587707427",
+			"startNode": "607690153",
+			"properties": {
+				"labels": ["参股"]
+			},
+			"type": "INVEST_C",
+			"endNode": "607689214"
+		}, {
+			"id": "72490868",
+			"startNode": "80037554",
+			"properties": {
+				"labels": ["分支机构"]
+			},
+			"type": "BRANCH",
+			"endNode": "2943374773"
+		}, {
+			"id": "594031695",
+			"startNode": "80037554",
+			"properties": {
+				"labels": ["参股"]
+			},
+			"type": "INVEST_C",
+			"endNode": "889096824"
+		}, {
+			"id": "72793983",
+			"startNode": "80037554",
+			"properties": {
+				"labels": ["分支机构"]
+			},
+			"type": "BRANCH",
+			"endNode": "2982966353"
+		}, {
+			"id": "68322110",
+			"startNode": "80037554",
+			"properties": {
+				"labels": ["分支机构"]
+			},
+			"type": "BRANCH",
+			"endNode": "904995243"
+		}, {
+			"id": "68322111",
+			"startNode": "80037554",
+			"properties": {
+				"labels": ["分支机构"]
+			},
+			"type": "BRANCH",
+			"endNode": "904995256"
+		}, {
+			"id": "68322109",
+			"startNode": "80037554",
+			"properties": {
+				"labels": ["分支机构"]
+			},
+			"type": "BRANCH",
+			"endNode": "904995163"
+		}, {
+			"id": "72793956",
+			"startNode": "80037554",
+			"properties": {
+				"labels": ["分支机构"]
+			},
+			"type": "BRANCH",
+			"endNode": "2995691190"
+		}, {
+			"id": "152247840",
+			"startNode": "2092065837",
+			"properties": {
+				"labels": ["法人"]
+			},
+			"type": "OWN",
+			"endNode": "2451888957"
+		}, {
+			"id": "72793954",
+			"startNode": "80037554",
+			"properties": {
+				"labels": ["分支机构"]
+			},
+			"type": "BRANCH",
+			"endNode": "2995691174"
+		}, {
+			"id": "72793955",
+			"startNode": "80037554",
+			"properties": {
+				"labels": ["分支机构"]
+			},
+			"type": "BRANCH",
+			"endNode": "2995691186"
+		}, {
+			"id": "72793952",
+			"startNode": "80037554",
+			"properties": {
+				"labels": ["分支机构"]
+			},
+			"type": "BRANCH",
+			"endNode": "2995691167"
+		}, {
+			"id": "72793953",
+			"startNode": "80037554",
+			"properties": {
+				"labels": ["分支机构"]
+			},
+			"type": "BRANCH",
+			"endNode": "2995691172"
+		}, {
+			"id": "72793967",
+			"startNode": "80037554",
+			"properties": {
+				"labels": ["分支机构"]
+			},
+			"type": "BRANCH",
+			"endNode": "2982966340"
+		}, {
+			"id": "547963795",
+			"startNode": "1923247452",
+			"properties": {
+				"labels": ["参股"]
+			},
+			"type": "INVEST_H",
+			"endNode": "2897860028"
+		}, {
+			"id": "343363405",
+			"startNode": "1923247452",
+			"properties": {
+				"labels": ["监事"]
+			},
+			"type": "SERVE",
+			"endNode": "2320050720"
+		}, {
+			"id": "68322130",
+			"startNode": "80037554",
+			"properties": {
+				"labels": ["分支机构"]
+			},
+			"type": "BRANCH",
+			"endNode": "904996267"
+		}, {
+			"id": "68322131",
+			"startNode": "80037554",
+			"properties": {
+				"labels": ["分支机构"]
+			},
+			"type": "BRANCH",
+			"endNode": "904996338"
+		}, {
+			"id": "68322128",
+			"startNode": "80037554",
+			"properties": {
+				"labels": ["分支机构"]
+			},
+			"type": "BRANCH",
+			"endNode": "904996083"
+		}, {
+			"id": "68322129",
+			"startNode": "80037554",
+			"properties": {
+				"labels": ["分支机构"]
+			},
+			"type": "BRANCH",
+			"endNode": "904996181"
+		}, {
+			"id": "68322134",
+			"startNode": "80037554",
+			"properties": {
+				"labels": ["分支机构"]
+			},
+			"type": "BRANCH",
+			"endNode": "904996545"
+		}, {
+			"id": "68322135",
+			"startNode": "80037554",
+			"properties": {
+				"labels": ["分支机构"]
+			},
+			"type": "BRANCH",
+			"endNode": "904996571"
+		}, {
+			"id": "355611255",
+			"startNode": "1820127805",
+			"properties": {
+				"labels": ["负责人"]
+			},
+			"type": "SERVE",
+			"endNode": "2387189580"
+		}, {
+			"id": "68322132",
+			"startNode": "80037554",
+			"properties": {
+				"labels": ["分支机构"]
+			},
+			"type": "BRANCH",
+			"endNode": "904996420"
+		}, {
+			"id": "68322133",
+			"startNode": "80037554",
+			"properties": {
+				"labels": ["分支机构"]
+			},
+			"type": "BRANCH",
+			"endNode": "904996499"
+		}, {
+			"id": "72848159",
+			"startNode": "80037554",
+			"properties": {
+				"labels": ["分支机构"]
+			},
+			"type": "BRANCH",
+			"endNode": "2982957311"
+		}, {
+			"id": "68322138",
+			"startNode": "80037554",
+			"properties": {
+				"labels": ["分支机构"]
+			},
+			"type": "BRANCH",
+			"endNode": "904996752"
+		}, {
+			"id": "72848158",
+			"startNode": "80037554",
+			"properties": {
+				"labels": ["分支机构"]
+			},
+			"type": "BRANCH",
+			"endNode": "2982957307"
+		}, {
+			"id": "68322139",
+			"startNode": "80037554",
+			"properties": {
+				"labels": ["分支机构"]
+			},
+			"type": "BRANCH",
+			"endNode": "904996816"
+		}, {
+			"id": "68322136",
+			"startNode": "80037554",
+			"properties": {
+				"labels": ["分支机构"]
+			},
+			"type": "BRANCH",
+			"endNode": "904996651"
+		}, {
+			"id": "68322137",
+			"startNode": "80037554",
+			"properties": {
+				"labels": ["分支机构"]
+			},
+			"type": "BRANCH",
+			"endNode": "904996695"
+		}, {
+			"id": "68322142",
+			"startNode": "80037554",
+			"properties": {
+				"labels": ["分支机构"]
+			},
+			"type": "BRANCH",
+			"endNode": "904996956"
+		}, {
+			"id": "91046433",
+			"startNode": "1923247452",
+			"properties": {
+				"labels": ["法人"]
+			},
+			"type": "OWN",
+			"endNode": "890640933"
+		}, {
+			"id": "68322143",
+			"startNode": "80037554",
+			"properties": {
+				"labels": ["分支机构"]
+			},
+			"type": "BRANCH",
+			"endNode": "904996974"
+		}, {
+			"id": "67840838",
+			"startNode": "2316128959",
+			"properties": {
+				"labels": ["分支机构"]
+			},
+			"type": "BRANCH",
+			"endNode": "577066416"
+		}, {
+			"id": "68322140",
+			"startNode": "80037554",
+			"properties": {
+				"labels": ["分支机构"]
+			},
+			"type": "BRANCH",
+			"endNode": "904996896"
+		}, {
+			"id": "525603866",
+			"startNode": "2000492027",
+			"properties": {
+				"labels": ["参股"]
+			},
+			"type": "INVEST_H",
+			"endNode": "2346435823"
+		}, {
+			"id": "68322141",
+			"startNode": "80037554",
+			"properties": {
+				"labels": ["分支机构"]
+			},
+			"type": "BRANCH",
+			"endNode": "904996936"
+		}, {
+			"id": "165041817",
+			"startNode": "2125972548",
+			"properties": {
+				"labels": ["法人"]
+			},
+			"type": "OWN",
+			"endNode": "2943374773"
+		}, {
+			"id": "68322114",
+			"startNode": "80037554",
+			"properties": {
+				"labels": ["分支机构"]
+			},
+			"type": "BRANCH",
+			"endNode": "904995381"
+		}, {
+			"id": "68322115",
+			"startNode": "80037554",
+			"properties": {
+				"labels": ["分支机构"]
+			},
+			"type": "BRANCH",
+			"endNode": "904995393"
+		}, {
+			"id": "68322112",
+			"startNode": "80037554",
+			"properties": {
+				"labels": ["分支机构"]
+			},
+			"type": "BRANCH",
+			"endNode": "904995324"
+		}, {
+			"id": "68322113",
+			"startNode": "80037554",
+			"properties": {
+				"labels": ["分支机构"]
+			},
+			"type": "BRANCH",
+			"endNode": "904995373"
+		}, {
+			"id": "68322118",
+			"startNode": "80037554",
+			"properties": {
+				"labels": ["分支机构"]
+			},
+			"type": "BRANCH",
+			"endNode": "904995491"
+		}, {
+			"id": "68322119",
+			"startNode": "80037554",
+			"properties": {
+				"labels": ["分支机构"]
+			},
+			"type": "BRANCH",
+			"endNode": "904995562"
+		}, {
+			"id": "68322116",
+			"startNode": "80037554",
+			"properties": {
+				"labels": ["分支机构"]
+			},
+			"type": "BRANCH",
+			"endNode": "904995449"
+		}, {
+			"id": "68322117",
+			"startNode": "80037554",
+			"properties": {
+				"labels": ["分支机构"]
+			},
+			"type": "BRANCH",
+			"endNode": "904995456"
+		}, {
+			"id": "68322122",
+			"startNode": "80037554",
+			"properties": {
+				"labels": ["分支机构"]
+			},
+			"type": "BRANCH",
+			"endNode": "904995724"
+		}, {
+			"id": "68322123",
+			"startNode": "80037554",
+			"properties": {
+				"labels": ["分支机构"]
+			},
+			"type": "BRANCH",
+			"endNode": "904995822"
+		}, {
+			"id": "68322120",
+			"startNode": "80037554",
+			"properties": {
+				"labels": ["分支机构"]
+			},
+			"type": "BRANCH",
+			"endNode": "904995656"
+		}, {
+			"id": "68322121",
+			"startNode": "80037554",
+			"properties": {
+				"labels": ["分支机构"]
+			},
+			"type": "BRANCH",
+			"endNode": "904995665"
+		}, {
+			"id": "68322126",
+			"startNode": "80037554",
+			"properties": {
+				"labels": ["分支机构"]
+			},
+			"type": "BRANCH",
+			"endNode": "904995959"
+		}, {
+			"id": "68322127",
+			"startNode": "80037554",
+			"properties": {
+				"labels": ["分支机构"]
+			},
+			"type": "BRANCH",
+			"endNode": "904996039"
+		}, {
+			"id": "68322124",
+			"startNode": "80037554",
+			"properties": {
+				"labels": ["分支机构"]
+			},
+			"type": "BRANCH",
+			"endNode": "904995891"
+		}, {
+			"id": "68322125",
+			"startNode": "80037554",
+			"properties": {
+				"labels": ["分支机构"]
+			},
+			"type": "BRANCH",
+			"endNode": "904995898"
+		}, {
+			"id": "587707494",
+			"startNode": "1923247452",
+			"properties": {
+				"labels": ["参股"]
+			},
+			"type": "INVEST_H",
+			"endNode": "607690153"
+		}, {
+			"id": "68322146",
+			"startNode": "80037554",
+			"properties": {
+				"labels": ["分支机构"]
+			},
+			"type": "BRANCH",
+			"endNode": "904997065"
+		}, {
+			"id": "95777477",
+			"startNode": "1923247452",
+			"properties": {
+				"labels": ["法人"]
+			},
+			"type": "OWN",
+			"endNode": "1144183053"
+		}, {
+			"id": "68322147",
+			"startNode": "80037554",
+			"properties": {
+				"labels": ["分支机构"]
+			},
+			"type": "BRANCH",
+			"endNode": "904997128"
+		}, {
+			"id": "522996829",
+			"startNode": "80037554",
+			"properties": {
+				"labels": ["参股"]
+			},
+			"type": "INVEST_C",
+			"endNode": "2339499712"
+		}, {
+			"id": "68322144",
+			"startNode": "80037554",
+			"properties": {
+				"labels": ["分支机构"]
+			},
+			"type": "BRANCH",
+			"endNode": "904996990"
+		}, {
+			"id": "68322145",
+			"startNode": "80037554",
+			"properties": {
+				"labels": ["分支机构"]
+			},
+			"type": "BRANCH",
+			"endNode": "904997056"
+		}, {
+			"id": "68322150",
+			"startNode": "80037554",
+			"properties": {
+				"labels": ["分支机构"]
+			},
+			"type": "BRANCH",
+			"endNode": "904997277"
+		}, {
+			"id": "68322151",
+			"startNode": "80037554",
+			"properties": {
+				"labels": ["分支机构"]
+			},
+			"type": "BRANCH",
+			"endNode": "904997320"
+		}, {
+			"id": "68322148",
+			"startNode": "80037554",
+			"properties": {
+				"labels": ["分支机构"]
+			},
+			"type": "BRANCH",
+			"endNode": "904997135"
+		}, {
+			"id": "68322149",
+			"startNode": "80037554",
+			"properties": {
+				"labels": ["分支机构"]
+			},
+			"type": "BRANCH",
+			"endNode": "904997234"
+		}, {
+			"id": "68322154",
+			"startNode": "80037554",
+			"properties": {
+				"labels": ["分支机构"]
+			},
+			"type": "BRANCH",
+			"endNode": "904997457"
+		}, {
+			"id": "68322155",
+			"startNode": "80037554",
+			"properties": {
+				"labels": ["分支机构"]
+			},
+			"type": "BRANCH",
+			"endNode": "904997511"
+		}, {
+			"id": "68322152",
+			"startNode": "80037554",
+			"properties": {
+				"labels": ["分支机构"]
+			},
+			"type": "BRANCH",
+			"endNode": "904997385"
+		}, {
+			"id": "68322153",
+			"startNode": "80037554",
+			"properties": {
+				"labels": ["分支机构"]
+			},
+			"type": "BRANCH",
+			"endNode": "904997408"
+		}, {
+			"id": "68322158",
+			"startNode": "80037554",
+			"properties": {
+				"labels": ["分支机构"]
+			},
+			"type": "BRANCH",
+			"endNode": "904997676"
+		}, {
+			"id": "592071734",
+			"startNode": "904997864",
+			"properties": {
+				"labels": ["参股"]
+			},
+			"type": "INVEST_C",
+			"endNode": "80037554"
+		}, {
+			"id": "68322159",
+			"startNode": "80037554",
+			"properties": {
+				"labels": ["分支机构"]
+			},
+			"type": "BRANCH",
+			"endNode": "904998497"
+		}, {
+			"id": "68322156",
+			"startNode": "80037554",
+			"properties": {
+				"labels": ["分支机构"]
+			},
+			"type": "BRANCH",
+			"endNode": "904997574"
+		}, {
+			"id": "607633225",
+			"startNode": "80198250",
+			"properties": {
+				"labels": ["参股"]
+			},
+			"type": "INVEST_C",
+			"endNode": "1144183053"
+		}, {
+			"id": "68322157",
+			"startNode": "80037554",
+			"properties": {
+				"labels": ["分支机构"]
+			},
+			"type": "BRANCH",
+			"endNode": "904997654"
+		}, {
+			"id": "522916011",
+			"startNode": "80037554",
+			"properties": {
+				"labels": ["参股"]
+			},
+			"type": "INVEST_C",
+			"endNode": "2339249350"
+		}, {
+			"id": "72177614",
+			"startNode": "80037554",
+			"properties": {
+				"labels": ["分支机构"]
+			},
+			"type": "BRANCH",
+			"endNode": "2451833916"
+		}, {
+			"id": "591644864",
+			"startNode": "80037554",
+			"properties": {
+				"labels": ["参股"]
+			},
+			"type": "INVEST_C",
+			"endNode": "786670691"
+		}, {
+			"id": "589888683",
+			"startNode": "1923247452",
+			"properties": {
+				"labels": ["参股"]
+			},
+			"type": "INVEST_H",
+			"endNode": "727069913"
+		}, {
+			"id": "164835931",
+			"startNode": "1923247452",
+			"properties": {
+				"labels": ["法人"]
+			},
+			"type": "OWN",
+			"endNode": "2897860028"
+		}, {
+			"id": "299436626",
+			"startNode": "2340711801",
+			"properties": {
+				"labels": ["监事"]
+			},
+			"type": "SERVE",
+			"endNode": "3112832262"
+		}, {
+			"id": "67124111",
+			"startNode": "80037554",
+			"properties": {
+				"labels": ["分支机构"]
+			},
+			"type": "BRANCH",
+			"endNode": "79462219"
+		}, {
+			"id": "68322176",
+			"startNode": "80037554",
+			"properties": {
+				"labels": ["分支机构"]
+			},
+			"type": "BRANCH",
+			"endNode": "905002835"
+		}, {
+			"id": "68322180",
+			"startNode": "80037554",
+			"properties": {
+				"labels": ["分支机构"]
+			},
+			"type": "BRANCH",
+			"endNode": "905003480"
+		}, {
+			"id": "72848335",
+			"startNode": "80037554",
+			"properties": {
+				"labels": ["分支机构"]
+			},
+			"type": "BRANCH",
+			"endNode": "2982966369"
+		}, {
+			"id": "72848334",
+			"startNode": "80037554",
+			"properties": {
+				"labels": ["分支机构"]
+			},
+			"type": "BRANCH",
+			"endNode": "2982966364"
+		}, {
+			"id": "316097869",
+			"startNode": "1853411726",
+			"properties": {
+				"labels": ["监事"]
+			},
+			"type": "SERVE",
+			"endNode": "424703129"
+		}, {
+			"id": "68322185",
+			"startNode": "80037554",
+			"properties": {
+				"labels": ["分支机构"]
+			},
+			"type": "BRANCH",
+			"endNode": "905004396"
+		}, {
+			"id": "592071889",
+			"startNode": "904997930",
+			"properties": {
+				"labels": ["参股"]
+			},
+			"type": "INVEST_C",
+			"endNode": "80037554"
+		}, {
+			"id": "163515938",
+			"startNode": "2007298304",
+			"properties": {
+				"labels": ["法人"]
+			},
+			"type": "OWN",
+			"endNode": "2414489362"
+		}, {
+			"id": "67269536",
+			"startNode": "80037554",
+			"properties": {
+				"labels": ["分支机构"]
+			},
+			"type": "BRANCH",
+			"endNode": "184930420"
+		}, {
+			"id": "72839155",
+			"startNode": "80037554",
+			"properties": {
+				"labels": ["分支机构"]
+			},
+			"type": "BRANCH",
+			"endNode": "2983898715"
+		}, {
+			"id": "75323352",
+			"startNode": "1853411726",
+			"properties": {
+				"labels": ["法人"]
+			},
+			"type": "OWN",
+			"endNode": "32652690"
+		}, {
+			"id": "72566781",
+			"startNode": "80037554",
+			"properties": {
+				"labels": ["分支机构"]
+			},
+			"type": "BRANCH",
+			"endNode": "2964786607"
+		}, {
+			"id": "590026884",
+			"startNode": "32652690",
+			"properties": {
+				"labels": ["参股"]
+			},
+			"type": "INVEST_C",
+			"endNode": "734986690"
+		}, {
+			"id": "132690011",
+			"startNode": "2340711801",
+			"properties": {
+				"labels": ["法人"]
+			},
+			"type": "OWN",
+			"endNode": "2345774454"
+		}, {
+			"id": "68322213",
+			"startNode": "80037554",
+			"properties": {
+				"labels": ["分支机构"]
+			},
+			"type": "BRANCH",
+			"endNode": "905012869"
+		}, {
+			"id": "68358058",
+			"startNode": "80037554",
+			"properties": {
+				"labels": ["分支机构"]
+			},
+			"type": "BRANCH",
+			"endNode": "933098146"
+		}, {
+			"id": "85291692",
+			"startNode": "1853411726",
+			"properties": {
+				"labels": ["法人"]
+			},
+			"type": "OWN",
+			"endNode": "577066416"
+		}, {
+			"id": "543429543",
+			"startNode": "80037554",
+			"properties": {
+				"labels": ["参股"]
+			},
+			"type": "INVEST_C",
+			"endNode": "2564106916"
+		}, {
+			"id": "72794000",
+			"startNode": "80037554",
+			"properties": {
+				"labels": ["分支机构"]
+			},
+			"type": "BRANCH",
+			"endNode": "2995691518"
+		}, {
+			"id": "448032126",
+			"startNode": "2067103389",
+			"properties": {
+				"labels": ["执行董事兼总经理"]
+			},
+			"type": "SERVE",
+			"endNode": "3306268999"
+		}, {
+			"id": "72793986",
+			"startNode": "80037554",
+			"properties": {
+				"labels": ["分支机构"]
+			},
+			"type": "BRANCH",
+			"endNode": "2982966347"
+		}, {
+			"id": "351292196",
+			"startNode": "2286447163",
+			"properties": {
+				"labels": ["董事"]
+			},
+			"type": "SERVE",
+			"endNode": "2310777879"
+		}, {
+			"id": "72793987",
+			"startNode": "80037554",
+			"properties": {
+				"labels": ["分支机构"]
+			},
+			"type": "BRANCH",
+			"endNode": "2982966349"
+		}, {
+			"id": "326558890",
+			"startNode": "2067103389",
+			"properties": {
+				"labels": ["参股"]
+			},
+			"type": "INVEST_H",
+			"endNode": "3306268999"
+		}, {
+			"id": "69241853",
+			"startNode": "80037554",
+			"properties": {
+				"labels": ["分支机构"]
+			},
+			"type": "BRANCH",
+			"endNode": "2318003750"
+		}, {
+			"id": "71704481",
+			"startNode": "80037554",
+			"properties": {
+				"labels": ["分支机构"]
+			},
+			"type": "BRANCH",
+			"endNode": "2451998433"
+		}, {
+			"id": "592071853",
+			"startNode": "436316505",
+			"properties": {
+				"labels": ["参股"]
+			},
+			"type": "INVEST_C",
+			"endNode": "80037554"
+		}, {
+			"id": "515768660",
+			"startNode": "1923247452",
+			"properties": {
+				"labels": ["参股"]
+			},
+			"type": "INVEST_H",
+			"endNode": "2320050720"
+		}, {
+			"id": "150013697",
+			"startNode": "1820127805",
+			"properties": {
+				"labels": ["法人"]
+			},
+			"type": "OWN",
+			"endNode": "2387189580"
+		}]
+	}
+}
