@@ -14,7 +14,7 @@
     "createjs-npm": "^0.1.0",
     "echarts": "^4.2.1",
     "gsap": "^2.1.2",
-    "jquery": "^1.11.3",
+    "jquery": "^3.4.0",
     "three": "^0.103.0",
     "three-obj-loader": "^1.1.3",
     "three-orbitcontrols": "^2.102.1",
