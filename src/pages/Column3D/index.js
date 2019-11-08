@@ -1,24 +1,15 @@
 import "commonDir/css/common.less";
-import "./nav.less";
 import "./index.less";
 import $ from "jquery";
-import Chats from "./chart/chart.js";
+import Chats from "./chart/Chart_hbzs.js";
 //import Chats from "./chart.js";
 const jsonz = require('./wanli.json');
 
-let zu=[];
-let opts = {
-            data: [
-                [15,45,67,34,57,67,74,60,50,30,54,79],
-                [80,60,70,60,50,30,40,70,130,60,40,20]
-                ],
-            xTime:["0","1","2","3","4","5","6","7","8","9","10","11"]
-        };
+
 let dom1=document.getElementsByClassName("charts1");
 let chart1=new Chats(dom1[0]);
 
-chart1.showPub(opts);
-//chart1.showPub(jsonz.data);
+chart1.setOption(jsonz);
 
 $("body").click(()=>{
 

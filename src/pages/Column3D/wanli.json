@@ -1,0 +1,17 @@
+{
+	"chartname": "污染物排放量",
+	"children": [
+		{"id": 1, "name": "常熟", "so2Num": 19593.29, "noxNum": 29311.82, "smokeNum": 2099.77},
+		{"id": 2, "name": "南热", "so2Num": 14468.4, "noxNum": 22791.82, "smokeNum": 2353.92},
+		{"id": 3, "name": "铜山", "so2Num": 9852.27, "noxNum": 25463.41, "smokeNum": 1405.43},
+		{"id": 4, "name": "化工园", "so2Num": 12976.75, "noxNum": 19388.54, "smokeNum": 1327.54},
+		{"id": 5, "name": "板桥", "so2Num": 6687.08, "noxNum": 6965.91, "smokeNum": 552.76},
+		{"id": 6, "name": "华鑫", "so2Num": 200, "noxNum": 300, "smokeNum": 100},
+		{"id": 7, "name": "徐州", "so2Num": 4483.06, "noxNum": 7976.01, "smokeNum": 546.72},
+		{"id": 8, "name": "镇江", "so2Num": 23280.11, "noxNum": 35345.18, "smokeNum": 1597.69}
+	],
+	"noxAllNum": 147542.69,
+	"smokeAllNum": 9983.83,
+	"so2AllNum": 91540.96,
+	"unitname": "吨"
+}
